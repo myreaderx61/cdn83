@@ -1,0 +1,1191 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja-jp" lang="ja-jp" dir="ltr" >
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta name="keywords" content="日經新聞,日本經濟新聞,日本經濟,財經,日本動漫,日本旅遊,日本企業,財經視點" />
+	<meta name="description" content="日經中文網官方網站。日經中文網是日本經濟新聞社的中文財經網站。提供日本、中國、歐美財經金融信息、商務、企業、高科技報導、評論和專欄。" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>日經中文網--日本經濟新聞中文版</title>
+	<link href="http://zh.cn.nikkei.com/templates/nikkeisite/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="http://zh.cn.nikkei.com/templates/nikkeisite/common/css/import.css" rel="stylesheet" type="text/css" />
+	<link href="http://zh.cn.nikkei.com/templates/nikkeisite/common/css/common.css" rel="stylesheet" type="text/css" />
+	<link href="http://zh.cn.nikkei.com/plugins/system/gdpr/assets/css/cookieconsent.min.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+div.cc-window.cc-floating{max-width:24em}@media(max-width: 639px){div.cc-window.cc-floating:not(.cc-center){max-width: none}}div.cc-window, span.cc-cookie-settings-toggler{font-size:16px}div.cc-revoke{font-size:16px}div.cc-settings-label,span.cc-cookie-settings-toggle{font-size:14px}div.cc-window.cc-banner{padding:1em 1.8em}div.cc-window.cc-floating{padding:2em 1.8em}input.cc-cookie-checkbox+span:before, input.cc-cookie-checkbox+span:after{border-radius:1px}
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"fc0e813e8a479e1e06527299b4ae1d9b","system.paths":{"root":"","base":""}}</script>
+	<script src="http://zh.cn.nikkei.com/media/system/js/mootools-core.js?149e9c973acccf5b1bbddf276bd98004" type="text/javascript"></script>
+	<script src="http://zh.cn.nikkei.com/media/system/js/core.js?149e9c973acccf5b1bbddf276bd98004" type="text/javascript"></script>
+	<script src="http://zh.cn.nikkei.com/media/system/js/mootools-more.js?149e9c973acccf5b1bbddf276bd98004" type="text/javascript"></script>
+	<script src="http://zh.cn.nikkei.com/templates/nikkeisite/common/scripts/slidetrans.js" type="text/javascript"></script>
+	<script src="http://zh.cn.nikkei.com/templates/nikkeisite/common/scripts/app.js" type="text/javascript"></script>
+	<script src="http://zh.cn.nikkei.com/templates/nikkeisite/common/scripts/init.js" type="text/javascript"></script>
+	<script src="http://zh.cn.nikkei.com/templates/nikkeisite/common/scripts/user.js" type="text/javascript"></script>
+	<script src="http://zh.cn.nikkei.com/templates/nikkeisite/common/scripts/versionChange.js" type="text/javascript"></script>
+	<script src="http://zh.cn.nikkei.com/templates/nikkeisite/common/scripts/code_baidu.js" type="text/javascript"></script>
+	<script src="http://zh.cn.nikkei.com/media/jui/js/jquery.min.js?149e9c973acccf5b1bbddf276bd98004" type="text/javascript"></script>
+	<script src="http://zh.cn.nikkei.com/media/jui/js/jquery-noconflict.js?149e9c973acccf5b1bbddf276bd98004" type="text/javascript"></script>
+	<script src="http://zh.cn.nikkei.com/media/jui/js/jquery-migrate.min.js?149e9c973acccf5b1bbddf276bd98004" type="text/javascript"></script>
+	<script src="http://zh.cn.nikkei.com/plugins/system/gdpr/assets/js/cookieconsent.min.js" type="text/javascript" defer="defer"></script>
+	<script src="http://zh.cn.nikkei.com/plugins/system/gdpr/assets/js/init.js" type="text/javascript" defer="defer"></script>
+	<script type="text/javascript">
+var gdprConfigurationOptions = { complianceType: 'opt-out',
+																			  disableFirstReload: 0,
+																	  		  blockJoomlaSessionCookie: 1,
+																			  blockExternalCookiesDomains: 0,
+																			  externalAdvancedBlockingModeCustomAttribute: '',
+																			  allowedCookies: 's_cc,s_sq,__gads,_ga,_gid,_gat,atlasId',
+																			  blockCookieDefine: 1,
+																			  autoAcceptOnNextPage: 0,
+																			  revokable: 1,
+																			  lawByCountry: 1,
+																			  checkboxLawByCountry: 0,
+																			  cacheGeolocationCountry: 1,
+																			  countryAcceptReloadTimeout: 1000,
+																			  usaCCPARegions: ["california"],
+																			  dismissOnScroll: 0,
+																			  dismissOnTimeout: 0,
+																			  containerSelector: 'body',
+																			  hideOnMobileDevices: 0,
+																			  autoFloatingOnMobile: 0,
+																			  autoFloatingOnMobileThreshold: 1024,
+																			  defaultClosedToolbar: 0,
+																			  toolbarLayout: 'basic',
+																			  toolbarTheme: 'block',
+																			  revocableToolbarTheme: 'basic',
+																			  toolbarPosition: 'bottom',
+																			  revokePosition: 'revoke-top',
+																			  toolbarPositionmentType: 1,
+																			  popupEffect: 'fade',
+																			  popupBackground: '#000000',
+																			  popupText: '#ffffff',
+																			  popupLink: '#ffffff',
+																			  buttonBackground: '#ffffff',
+																			  buttonBorder: '#ffffff',
+																			  buttonText: '#000000',
+																			  highlightOpacity: '100',
+																			  highlightBackground: '#333333',
+																			  highlightBorder: '#ffffff',
+																			  highlightText: '#ffffff',
+																			  highlightDismissBackground: '#333333',
+																		  	  highlightDismissBorder: '#ffffff',
+																		 	  highlightDismissText: '#ffffff',
+																			  hideRevokableButton: 0,
+																			  hideRevokableButtonOnscroll: 0,
+																			  customRevokableButton: 0,
+																			  headerText: 'Cookies used on the website!',
+																			  messageText: '<span>我們使用Cookies來改善您在訪問日經中文網時的使用體驗，請閱讀並確認我們的</span><a class=\"cc-link cc-privacy\" role=\"button\" aria-label=\"privacy policy\" href=\"component/content/article/122-ID.html#privacy\" target=\"_blank\" rel=\"noindex nofollow noopener noreferrer\" tabindex=\"0\">隱私政策</a><span>和</span><a class=\"cc-link cc-cookie\" role=\"button\" aria-label=\"cookie policy\" href=\"component/content/article/122-ID.html#cookie1\" target=\"_blank\" rel=\"noindex nofollow noopener noreferrer\" tabindex=\"0\">Cookie政策</a><span>。</span>   This website uses cookies to ensure you get the best experience on our website.',
+																			  denyMessageEnabled: 0, 
+																			  denyMessage: 'You have declined cookies, to ensure the best experience on this website please consent the cookie usage.',
+																			  placeholderBlockedResources: 0, 
+																			  placeholderBlockedResourcesAction: '',
+																	  		  placeholderBlockedResourcesText: 'You must accept cookies and reload the page to view this content',
+																			  placeholderIndividualBlockedResourcesText: 'You must accept cookies from {domain} and reload the page to view this content',
+																			  dismissText: 'Got it!',
+																			  allowText: '接受（Y）',
+																			  denyText: '拒絕（N）',
+																			  cookiePolicyLinkText: 'Cookie policy',
+																			  cookiePolicyLink: '/component/content/article/122-ID.html#cookie1',
+																			  cookiePolicyRevocableTabText: 'Cookie policy',
+																			  privacyPolicyLinkText: 'Privacy policy',
+																			  privacyPolicyLink: '/component/content/article/122-ID.html#privacy',
+																			  categoriesCheckboxTemplate: 'cc-checkboxes-light',
+																			  toggleCookieSettings: 0,
+																	  		  toggleCookieSettingsText: '<span class="cc-cookie-settings-toggle">Settings <span class="cc-cookie-settings-toggler">&#x25EE;</span></span>',
+																			  toggleCookieSettingsButtonBackground: '#333333',
+																			  toggleCookieSettingsButtonBorder: '#ffffff',
+																			  toggleCookieSettingsButtonText: '#ffffff',
+																			  showLinks: 1,
+																			  blankLinks: '_blank',
+																			  autoOpenPrivacyPolicy: 0,
+																			  openAlwaysDeclined: 1,
+																			  cookieSettingsLabel: 'Cookie settings:',
+															  				  cookieSettingsDesc: 'Choose which kind of cookies you want to disable by clicking on the checkboxes. Click on a category name for more informations about used cookies.',
+																			  cookieCategory1Enable: 0,
+																			  cookieCategory1Name: 'Necessary',
+																			  cookieCategory1Locked: 0,
+																			  cookieCategory2Enable: 0,
+																			  cookieCategory2Name: 'Preferences',
+																			  cookieCategory2Locked: 0,
+																			  cookieCategory3Enable: 0,
+																			  cookieCategory3Name: 'Statistics',
+																			  cookieCategory3Locked: 0,
+																			  cookieCategory4Enable: 0,
+																			  cookieCategory4Name: 'Marketing',
+																			  cookieCategory4Locked: 0,
+																			  alwaysReloadAfterCategoriesChange: 0,
+																			  preserveLockedCategories: 0,
+																			  reloadOnfirstDeclineall: 0,
+																			  trackExistingCheckboxSelectors: '',
+															  		  		  trackExistingCheckboxConsentLogsFormfields: 'name,email,subject,message',
+																			  allowallShowbutton: 0,
+																			  allowallText: 'Allow all cookies',
+																			  allowallButtonBackground: '#ffffff',
+																			  allowallButtonBorder: '#ffffff',
+																			  allowallButtonText: '#000000',
+																			  includeAcceptButton: 0,
+																			  optoutIndividualResources: 0,
+																			  externalAdvancedBlockingModeTags: 'iframe,script,img,source,link',
+																			  debugMode: 0
+																		};var gdpr_ajax_livesite='http://zh.cn.nikkei.com/';var gdpr_enable_log_cookie_consent=1;
+	</script>
+
+	
+		
+<p>
+<script type="text/javascript">// <![CDATA[
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+// ]]></script>
+<script type="text/javascript">// <![CDATA[
+googletag.defineSlot('/7049/Nikkeichina_Leaderboard', [728, 90], 'div-gpt-ad-1331609609238-0').addService(googletag.pubads());
+googletag.defineSlot('/7049/Nikkeichina_Premiumtext', [300, 30], 'div-gpt-ad-1331609609238-1').addService(googletag.pubads());
+googletag.defineSlot('/7049/Nikkeichina_Rectangle_1', [300, 250], 'div-gpt-ad-1331609609238-2').addService(googletag.pubads());
+googletag.defineSlot('/7049/Nikkeichina_Rectangle_2', [300, 250], 'div-gpt-ad-1406537730583-0').addService(googletag.pubads());
+googletag.defineSlot('/7049/Nikkeichina_Text_1', [468, 30], 'div-gpt-ad-1331609609238-4').addService(googletag.pubads());
+googletag.defineSlot('/7049/Nikkeichina_200*90_10', [200, 90], 'div-gpt-ad-1334210713748-0').addService(googletag.pubads());
+googletag.defineSlot('/7049/Nikkeichina_300*125_1', [300, 125], 'div-gpt-ad-1405573613359-0').addService(googletag.pubads());
+googletag.defineSlot('/7049/Nikkeichina_300*125_2', [300,125],'div-gpt-ad-1320902128961-13').addService(googletag.pubads());
+googletag.defineSlot('/7049/Nikkeichina_300*125_3', [300, 125], 'div-gpt-ad-1320902128961-14').addService(googletag.pubads());
+googletag.defineSlot('/7049/Nikkeichina_300*125_4', [300, 125], 'div-gpt-ad-1499218881668-0').addService(googletag.pubads());
+
+googletag.defineSlot('/7049/Nikkeichina_InRead_Article', [1, 1], 'div-gpt-ad-1415957320426-0').addService(googletag.pubads());
+googletag.defineSlot('/7049/Nikkeichina_M_InRead', [1, 1], 'div-gpt-ad-1482287971035-0').addService(googletag.pubads());
+googletag.defineSlot('/7049/Nikkeichina_InBoard', [1, 1], 'div-gpt-ad-1424744027146-0').addService(googletag.pubads());
+
+
+googletag.defineSlot('/7049/Nikkeichina_M_Panel', [320, 50], 'div-gpt-ad-1419248518491-0').addService(googletag.pubads());
+googletag.defineSlot('/7049/Nikkeichina_M_Adv01', [320, 50], 'div-gpt-ad-1419248554549-0').addService(googletag.pubads());
+googletag.defineSlot('/7049/Nikkeichina_M_Adv02', [320, 50], 'div-gpt-ad-1419248576064-0').addService(googletag.pubads());
+googletag.defineSlot('/7049/Nikkeichina_M_Text', [420, 30], 'div-gpt-ad-1419248600152-0').addService(googletag.pubads());
+
+googletag.defineSlot('/7049/Nikkeichina_M_Rectangle_1', [300, 250], 'div-gpt-ad-1434711762368-0').addService(googletag.pubads());
+googletag.defineSlot('/7049/Nikkeichina_300*50', [300, 50], 'div-gpt-ad-1444793180211-0').addService(googletag.pubads());
+googletag.defineSlot('/7049/Nikkeichina_M_Text2', [420, 30], 'div-gpt-ad-1439973603803-0').addService(googletag.pubads());
+googletag.defineSlot('/7049/Nikkeichina_M_Rectangle_2', [300, 250], 'div-gpt-ad-1439973576568-0').addService(googletag.pubads());
+googletag.defineSlot('/7049/Test_NikkeiEnglish_300*250_1', [300, 250], 'div-gpt-ad-1457065155181-0').addService(googletag.pubads());
+
+googletag.defineSlot('/7049/Nikkeichina_Baidu', [1, 1], 'div-gpt-ad-1490164766050-0').addService(googletag.pubads());
+googletag.defineSlot('/7049/Nikkeichina_M_Rectangle_1_zh', [300, 250], 'div-gpt-ad-1480314399179-0').addService(googletag.pubads());
+googletag.defineSlot('/7049/Nikkeichina_Rectangle_1_zh', [300, 250], 'div-gpt-ad-1490664454203-0').addService(googletag.pubads());
+googletag.defineSlot('/7049/Nikkeichina_Premiumtext_zh', [300, 30], 'div-gpt-ad-1490583441587-0').addService(googletag.pubads());
+
+
+googletag.pubads().enableSingleRequest();
+
+googletag.enableServices();
+// ]]></script>
+</p>
+<!-- googletag.pubads().enableSingleRequest(); --><!-- googletag.defineSlot('/7049/Nikkeichina_M_Rectangle_1', [300, 250], 'div-gpt-ad-1434711762368-0').addService(googletag.pubads()); -->
+<p></p>
+<!-- Begin comScore Tag -->
+<p>
+<script>// <![CDATA[
+var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "20514388" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+// ]]></script>
+</p>
+<noscript>
+  &amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;img src="http://b.scorecardresearch.com/p?c1=2&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;c2=20514388&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;cv=2.0&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;cj=1" /&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;
+</noscript><!-- End comScore Tag -->
+</head>
+<body id="index">
+	<div class="wrapper">
+		<!-- <br/> -->
+		<!-- ##### header Start ##### -->
+		<div class="header">
+			<div class="headerBanner1 fix">
+									<div style="float: left">
+						<!-- ###### Super Bunner ###### -->
+						
+					</div>
+					<div style="float: right">					
+						<!-- ###### Super Bunner side ###### -->
+						
+					</div>
+							</div>
+			<!-- ###### 上部&#12522;&#12531;&#12463;係 ##### -->
+			<div class="loginLinks fix">
+				<ul class="login fix">
+					<li class="loginBtn"><a href="https://zh.cn.nikkei.com/user/login/login.html" target="_self">請登錄</a></li>
+<li><a href="https://zh.cn.nikkei.com/user/register/reg01.html" target="_self">免費註冊<img style="position:relative;top:1px;margin:0 0 0 5px;" src="http://zh.cn.nikkei.com/templates/nikkeisite/common/images/mail_icon_02.gif" width="15" height="11" alt="" /></a></li>
+				</ul>
+				<ul class="links fix">
+					<li><fjtignoreurl><a href="http://cn.nikkei.com/" target="_blank">&#31616;&#20307;&#20013;&#25991;</a></fjtignoreurl></li>
+					<li><fjtignoreurl><a href="http://zh.cn.nikkei.com/" target="_blank">&#32321;&#39636;&#20013;&#25991;</a></fjtignoreurl></li>
+					<li><fjtignoreurl><a href="http://www.nikkei.com/" target="_blank">&#26085;&#26412;&#35486;</a></fjtignoreurl></li>
+					<li><fjtignoreurl><a href="http://asia.nikkei.com/?n_cid=NARAN037" target="_blank">Nikkei Asian Review</a></fjtignoreurl></li>
+					<li><a href="http://zh.cn.nikkei.com/index.php/footer/ggk.html" target="_blank">HELP</a></li>
+					<li><a href="http://www.nikkei.co.jp/nikkeiinfo/english/index.html" target="_blank">About NIKKEI</a></li>
+										<!-- <li><a href="javascript:document.location.reload()" onclick="versionMChange()" >mobile版</a></li> -->
+					<li><a href="http://zh.cn.nikkei.com/rss.html" target="_blank">RSS</a></li>
+				</ul>
+			</div>
+			<!-- ##### &#12525;&#12468;&#12539;&#26908;索&#12496;&#12540;&#12539;&#12450;&#12452;&#12467;&#12531;等 ##### -->
+			<div class="logosearch fix">
+				<!-- ##### &#12525;&#12468; ##### -->
+				
+<h1 class="fix" style="height: 65px;"><a onclick="window.location.href='http://'+ window.location.host"><img style="cursor: pointer;" src="http://zh.cn.nikkei.com/templates/nikkeisite/common/images/newlogo.png" alt="日經中文網" width="256" height="39" /></a><br /> <span style="font-weight: bold; font-size: 16px; color: #221714; font-family: 'Times New Roman'; letter-spacing: 1.5px; position: relative; top: -5px; left: 2px;">NIKKEI</span><span style="position: relative; top: -5px; left: 2px; font-weight: normal; font-size: 16px; color: #221714; font-family: 'microsoft yahei','Hiragino Sans GB','宋體',Tahoma,Verdana,Arial;">——日本經濟新聞中文版</span></h1>
+				<div class="shareSearch">
+					<ul class="fix">
+						<li>
+							<!-- ##### &#12459;&#12524;&#12531;&#12480;&#12540;（年&#12539;曜日） #### 後&#12391;&#12514;&#12472;&#12517;&#12540;&#12523;化&#12377;&#12427;必要&#12354;&#12426; -->
+							
+<div class="date fix"><span id="NowYear" class="year">20xx</span> <span id="NowWeekDay" class="week">水曜日</span></div>
+<script>// <![CDATA[
+var now = new Date();
+var weekday=new Array(7);
+	weekday[0]="星期天",
+	weekday[1]="星期一",
+	weekday[2]="星期二",
+	weekday[3]="星期三",
+	weekday[4]="星期四",
+	weekday[5]="星期五",
+	weekday[6]="星期六";
+document.getElementById('NowYear').innerHTML = now.getFullYear();
+document.getElementById('NowWeekDay').innerHTML = weekday[now.getDay()];
+// ]]></script>
+						</li>
+						<li class="shareAcitve">
+							<!-- ##### &#24195;告（&#12504;&#12483;&#12480;&#12540;１） ##### -->
+							
+<p style="padding-bottom: 4px;"><a href="http://zh.cn.nikkei.com/china/sc/" target="_blank" rel="noopener noreferrer"><img width="170" height="30" alt="" src="http://zh.cn.nikkei.com/templates/nikkeisite/common/images/btn/speechcontest.jpg" /></a></p>
+						</li>
+						<li class="share">
+							<!-- ##### &#12450;&#12452;&#12467;&#12531;&#12522;&#12531;&#12463; ##### -->
+							
+<a href="http://zh.cn.nikkei.com/weixin.html" target="_blank"><img src="http://zh.cn.nikkei.com/templates/nikkei_new/common/images/weixin_icon.gif" alt="微信" width="62" height="22" /></a> <fjtignoreurl><a href="http://weibo.com/u/2478163131" target="_blank"><img src="http://cn.nikkei.com/templates/nikkei_new/common/images/weibo_icon.gif" alt="&#26032;&#28010;&#24494;&#21338;" width="62" height="22" /></a></fjtignoreurl> <fjtignoreurl><a href="http://t.qq.com/rijingzhongwen" class="end" target="_blank"><img src="http://cn.nikkei.com/templates/nikkei_new/common/images/tc_icon.gif" alt="&#33150;&#35759;&#24494;&#21338;" width="62" height="22" /></a></fjtignoreurl>
+						</li>
+					</ul>
+					<ul class="fix">
+						<li>
+							<!-- ##### &#12459;&#12524;&#12531;&#12480;&#12540;（月日） #### 後&#12391;&#12514;&#12472;&#12517;&#12540;&#12523;化&#12377;&#12427;必要&#12354;&#12426; -->
+							
+<p><span class="day"><i id="NowMonth">07</i>月<i id="NowDay">08</i>日</span></p>
+<script>// <![CDATA[
+var nowdate = new Date();
+	document.getElementById('NowMonth').innerHTML = ("0"+(now.getMonth()+1)).slice(-2);
+	document.getElementById('NowDay').innerHTML = ("0"+now.getDate()).slice(-2);
+// ]]></script>
+						</li>
+						<li style="margin-left:10.8px">
+							<!-- ##### &#12469;&#12452;&#12488;內&#26908;索 #### -->
+							<form action="http://zh.cn.nikkei.com/index.php" method="post" name="searchForm" id="searchForm">
+	<input name="searchword" id="mod_search_searchword" maxlength="20" alt="" class="searchInput" type="text" size="20" value="" />
+<a class="searchBtn" onclick="javascript:document.searchForm.submit();">搜索</a>
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_nikkeisearch" />
+	<input type="hidden" name="fc0e813e8a479e1e06527299b4ae1d9b" value="1" /></form>
+
+						</li>
+					</ul>
+				</div>
+			</div>
+			<!-- ##### &#12513;&#12452;&#12531;&#12513;&#12491;&#12517;&#12540; ##### -->
+			<div class="banner">
+				<ul class="bannerList fix" id="bannerList"><li class="bannerCho on"><h2><a href="http://zh.cn.nikkei.com/" target="_blank">日經精選</a></h2><div><ul class="fix" style="width:980"><li><a href="http://zh.cn.nikkei.com/top/2020-02-03-06-03-30.html?types[0]=8" target="_blank">新冠病毒</a></li><li><a href="http://zh.cn.nikkei.com/top/2019-08-28-07-59-02.html" target="_blank">貿易戰</a></li><li><a href="http://zh.cn.nikkei.com/top/2019-08-29-06-22-29.html" target="_blank">華為</a></li><li><a href="http://zh.cn.nikkei.com/top/2019-08-29-01-32-09.html" target="_blank">日韓關係</a></li><li><a href="http://zh.cn.nikkei.com/top/2019-08-29-06-18-57.html" target="_blank">中日深度觀察</a></li><li><a href="http://zh.cn.nikkei.com/top/201604-3/230.html" target="_blank">日本遊</a></li><li class="end"><a href="http://zh.cn.nikkei.com/top/2020-03-25-06-55-59.html?types[0]=8" target="_blank">東京奧運會</a></li></ul></div></li><li class="bannerChi"><h2><a href="http://zh.cn.nikkei.com/china.html" target="_blank">中國</a></h2><div><ul class="fix" style="width:980"><li><a href="http://zh.cn.nikkei.com/china/ceconomy.html" target="_blank">經濟</a></li><li><a href="http://zh.cn.nikkei.com/china/ccompany.html" target="_blank">企業</a></li><li><a href="http://zh.cn.nikkei.com/china/cfinancial.html" target="_blank">金融市場</a></li><li class="end"><a href="http://zh.cn.nikkei.com/china/cpolicssociety.html" target="_blank">政治/社會</a></li></ul></div></li><li class="bannerObs"><h2><a href="http://zh.cn.nikkei.com/politicsaeconomy.html" target="_blank">政經觀察</a></h2><div><ul class="fix" style="width:980"><li><a href="http://zh.cn.nikkei.com/politicsaeconomy/epolitics.html" target="_blank">宏觀經濟</a></li><li><a href="http://zh.cn.nikkei.com/politicsaeconomy/economic-policy.html" target="_blank">經濟政策</a></li><li><a href="http://zh.cn.nikkei.com/politicsaeconomy/stockforex.html" target="_blank">股市/外匯</a></li><li><a href="http://zh.cn.nikkei.com/politicsaeconomy/investtrade.html" target="_blank">投資/貿易</a></li><li><a href="http://zh.cn.nikkei.com/politicsaeconomy/efinance.html" target="_blank">金融</a></li><li><a href="http://zh.cn.nikkei.com/politicsaeconomy/commodity.html" target="_blank">大宗商品</a></li><li class="end"><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety.html" target="_blank">政治/社會</a></li></ul></div></li><li class="bannerInd"><h2><a href="http://zh.cn.nikkei.com/industry.html" target="_blank">産業聚焦</a></h2><div><ul class="fix" style="width:980"><li><a href="http://zh.cn.nikkei.com/industry/icar.html" target="_blank">汽車</a></li><li><a href="http://zh.cn.nikkei.com/industry/itelectric-appliance.html" target="_blank">IT/家電</a></li><li><a href="http://zh.cn.nikkei.com/industry/ienvironment.html" target="_blank">環境/能源</a></li><li><a href="http://zh.cn.nikkei.com/industry/manufacturing.html" target="_blank">工業</a></li><li><a href="http://zh.cn.nikkei.com/industry/propertiesconstruction.html" target="_blank">地産/建設</a></li><li><a href="http://zh.cn.nikkei.com/industry/tradingretail.html" target="_blank">商業/消費</a></li><li><a href="http://zh.cn.nikkei.com/industry/scienceatechnology.html" target="_blank">科學/技術</a></li><li class="end"><a href="http://zh.cn.nikkei.com/industry/management-strategy.html" target="_blank">經營/戰略</a></li></ul></div></li><li class="bannerNpr"><h2><a href="http://zh.cn.nikkei.com/product.html" target="_blank">新産品</a></h2><div><ul class="fix" style="width:980"><li><a href="http://zh.cn.nikkei.com/product/pdigital.html" target="_blank">數碼與家電</a></li><li><a href="http://zh.cn.nikkei.com/product/automobile.html" target="_blank">汽車</a></li><li><a href="http://zh.cn.nikkei.com/product/beautyahealth.html" target="_blank">美容與健康</a></li><li><a href="http://zh.cn.nikkei.com/product/selected-item.html" target="_blank">美品精選</a></li><li class="end"><a href="http://zh.cn.nikkei.com/product/joke-goods.html" target="_blank">非凡創意</a></li></ul></div></li><li class="bannerCjp"><h2><a href="http://zh.cn.nikkei.com/trend.html" target="_blank">穿梭日本</a></h2><div><ul class="fix" style="width:980"><li><a href="http://zh.cn.nikkei.com/trend/cool-japan.html" target="_blank">酷日本</a></li><li><a href="http://zh.cn.nikkei.com/trend/beautyahealth.html" target="_blank">美容健身</a></li><li><a href="http://zh.cn.nikkei.com/trend/traditional-culture.html" target="_blank">文化精粹</a></li><li class="end"><a href="http://zh.cn.nikkei.com/trend/tourism.html" target="_blank">日本逍遙行</a></li></ul></div></li><li class="bannerPoi"><h2><a href="http://zh.cn.nikkei.com/columnviewpoint.html" target="_blank">專欄/觀點</a></h2><div><ul class="fix" style="width:980"><li><a href="http://zh.cn.nikkei.com/columnviewpoint/tearoom.html" target="_blank">中日茶坊</a></li><li><a href="http://zh.cn.nikkei.com/columnviewpoint/columns-b.html" target="_blank">肖敏捷論中日</a></li><li><a href="http://zh.cn.nikkei.com/columnviewpoint/column-special1.html" target="_blank">日本人小聲説</a></li><li><a href="http://zh.cn.nikkei.com/columnviewpoint/liudicolumn.html" target="_blank">劉迪觀察</a></li><li><a href="http://zh.cn.nikkei.com/columnviewpoint/zhangshicolumn.html" target="_blank">張石的櫻雪鴻泥</a></li><li><a href="http://zh.cn.nikkei.com/columnviewpoint/kelongcolumn.html" target="_blank">老柯要説話</a></li><li><a href="http://zh.cn.nikkei.com/columnviewpoint/criticism.html" target="_blank">社評</a></li><li><a href="http://zh.cn.nikkei.com/columnviewpoint/viewpoint.html" target="_blank">觀點</a></li><li class="end"><a href="http://zh.cn.nikkei.com/columnviewpoint/column.html" target="_blank">專欄</a></li></ul></div></li><li class="bannerJob"><h2><a href="http://zh.cn.nikkei.com/career.html" target="_blank">職場/深造</a></h2><div><ul class="fix" style="width:980"><li><a href="http://zh.cn.nikkei.com/career/humanresource.html" target="_blank">人才活用</a></li><li><a href="http://zh.cn.nikkei.com/career/employment.html" target="_blank">就業</a></li><li class="end"><a href="http://zh.cn.nikkei.com/career/abroadstudy.html" target="_blank">留學/教育</a></li></ul></div></li></ul>
+			</div>
+		</div>
+		<!-- ##### header End #####  -->
+		
+		<!-- ##### Content Start ##### -->
+		<div class="contentMain fix">
+			<!-- ###### Breaking News START ###### -->
+													<!-- ###### Breaking News END ###### -->
+			<div>
+				<!-- Error Messages Start -->
+				<div id="system-message-container">
+	</div>
+
+				<!-- Error Messages End -->
+				
+
+				<!-- ##### Left Contents Start ##### --><div class="column-2 mainContent" style="margin-bottom:0px;"><!-- ##### &#12488;&#12483;&#12503;&#12467;&#12531;&#12486;&#12531;&#12484; Start ##### -->
+
+<div class="indexTopNews fix mB5">
+<div class="topNewsImg"><a href="http://zh.cn.nikkei.com/politicsaeconomy/investtrade/41780-2020-08-25-04-30-00.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0824/0824-11-1-T-REUTERS.jpg"width="285" height="209" alt="全球醫用防護用品對中國依賴增至8成" /></a></div>
+<div class="topNewsList">
+<dl class="newsContent01">
+<dt><a href="http://zh.cn.nikkei.com/politicsaeconomy/investtrade/41780-2020-08-25-04-30-00.html" target="_blank">全球醫用防護用品對中國依賴增至8成</a></dt>
+<dd>
+<div class="content" style="margin-bottom:5px">中國在日本醫用口罩進口中所佔的比例達到96％。雖然日美歐都擔憂關係到生命的醫療用品過於依賴中國，力爭實現國內生産和採購地的多樣化，但門檻仍然很高……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+<ul class="listStyle01">
+<li><a href="http://zh.cn.nikkei.com/columnviewpoint/kelongcolumn/40183-2020-04-15-04-51-26.html" target="_blank">日本企業會撤離中國嗎？</a></li>
+<li><a href="http://zh.cn.nikkei.com/columnviewpoint/column/40017-2020-04-03-04-25-20.html" target="_blank">日本的口罩去哪兒了？</a></li>
+<li><a href="http://zh.cn.nikkei.com/columnviewpoint/tearoom/39765-2020-03-11-05-04-27.html" target="_blank">一切為了口罩</a></li>
+<li><a href="http://zh.cn.nikkei.com/columnviewpoint/kelongcolumn/39909-2020-04-02-04-55-29.html" target="_blank">疫情之後的國際産業鏈</a></li>
+<li><a href="http://zh.cn.nikkei.com/industry/tradingretail/41248-2020-07-15-04-43-00.html" target="_blank">日本口罩進化到什麼程度了？</a></li>
+<li><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41625-2020-08-12-05-00-01.html" target="_blank">日本人戴口罩不是因為怕感染</a></li>
+</ul>
+</dd>
+</dl></div>
+</div>
+
+<!-- ##### &#12488;&#12483;&#12503;&#12467;&#12531;&#12486;&#12531;&#12484; End ##### -->
+<!-- ##### &#12486;&#12461;&#12473;&#12488;&#24195;告１ Start ##### -->
+
+<div style="height: auto; background: #fff; padding-left: 15px !important; margin-bottom: 10px !important; font-size: 14px; line-height: 18px;">
+<table border="0">
+<tbody><!-- Nikkeichina_PremiumText -->
+<tr>
+<td style="vertical-align: top;"><img style="margin-top: 4px !important; margin-right: 10px !important;" alt="ad" src="http://zh.cn.nikkei.com/templates/nikkeisite/common/images/ad/pr-logo.gif" /></td>
+<td>
+<script>// <![CDATA[
+if ((document.domain == 'zh.cn.nikkei.com') || (location.port == '8080')){
+document.open();
+document.write("<!-- zh --><div id='div-gpt-ad-1490583441587-0' style='width: auto; height: 21px'>");
+document.close();
+googletag.display('div-gpt-ad-1490583441587-0');
+}else{
+document.open();
+document.write("<!-- cn --><div id='div-gpt-ad-1331609609238-1' style='width: auto; height: 21px'>");
+document.close();
+googletag.display('div-gpt-ad-1331609609238-1');
+}
+// ]]></script>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- ##### &#12486;&#12461;&#12473;&#12488;&#24195;告１ End ##### -->
+	
+	<div class="fix pR15">
+		<!-- ##### 左&#12467;&#12531;&#12486;&#12531;&#12484;（右側） Start ##### -->
+		<div class="column-1 flt rbs01 mB10">
+			<!-- ##### 主要新聞１ Start ##### -->
+							<div class="newsStyle01 brdbtLine01 mB10">
+<h2 class="style03"><p style="font-size: 18px;"></p></h2>
+<dl class="newsContent01">
+<dt>
+<a href="http://zh.cn.nikkei.com/industry/management-strategy/41765-2020-08-25-04-20-00.html" target="_blank">押注後新冠時代，全球接連出現大型併購</a>
+</dt>
+<dd>
+<div class="picture"><a href="http://zh.cn.nikkei.com/industry/management-strategy/41765-2020-08-25-04-20-00.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0821/0821-12-3-T-Reuters.jpg" width="90" height="70" alt="押注後新冠時代，全球接連出現大型併購" /></a></div>
+<div class="content" style="margin-bottom:5px">受疫情影響，全球企業併購額4月曾跌破1000億美元，但6月以後已恢復至超過新冠前的1～3月的平均水平。企業不僅為生存下去而出售業務，為搶佔增長領域而併購的行動也日益增多。似乎開始出現泡沫行情……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><ul class="listStyle01" style="margin-top:0px">
+<li><a href="http://zh.cn.nikkei.com/industry/tradingretail/41511-2020-08-03-09-04-50.html" target="_blank">日本柒和伊2.2萬億日元收購美國便利…</a></li><li><a href="http://zh.cn.nikkei.com/columnviewpoint/column/40735-2020-06-02-04-42-00.html" target="_blank">新冠危機會帶來壟斷？</a></li><li><a href="http://zh.cn.nikkei.com/china/ccompany/41201-2020-07-08-05-13-30.html" target="_blank">中美IT企業在疫情下壯大,誰更有競爭…</a></li><li><a href="http://zh.cn.nikkei.com/industry/manufacturing/41761-2020-08-21-14-11-25.html" target="_blank">吳德南集團將收購日本塗料</a></li><li><a href="http://zh.cn.nikkei.com/industry/itelectric-appliance/34266-2019-02-18-05-00-20.html" target="_blank">讓世界煩惱的「新壟斷」</a></li><li><a href="http://zh.cn.nikkei.com/columnviewpoint/column/40714-2020-05-28-05-00-00.html" target="_blank">收購日企接"包袱":一半海水一半火焰</a></li></ul><div style="margin-bottom:10px;"></div><dt>
+<a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41776-2020-08-25-04-33-00.html" target="_blank">日本政府要與企業合作擴大出口防衛裝備</a>
+</dt>
+<dd>
+<div class="picture"><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41776-2020-08-25-04-33-00.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0824/0824-12-T.jpg" width="90" height="70" alt="日本政府要與企業合作擴大出口防衛裝備" /></a></div>
+<div class="content" style="margin-bottom:5px">瞄準印度、印度尼西亞、越南、馬來西亞4國，委託民營企業調查各國的預算和需求，確定有望出口的防衛裝備。最近6年裏日本僅完成4筆防衛裝備的零部件出口，完成品的出口仍未實現……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><ul class="listStyle01" style="margin-top:0px">
+<li><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/35593-2019-05-20-05-00-00.html" target="_blank">解禁5年仍賣不出去的日本防衛裝備</a></li><li><a href="http://zh.cn.nikkei.com/industry/manufacturing/34458-2019-02-27-05-00-28.html" target="_blank">日本防衛企業面臨「不掙錢」難題</a></li><li><a href="http://zh.cn.nikkei.com/industry/manufacturing/31575-2018-07-31-10-37-09.html" target="_blank">日本造船現狀：商船敵不過中韓只能靠造…</a></li><li><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/30096-2018-04-23-05-00-00.html" target="_blank">印度想變成武器出口國，可能嗎？</a></li><li><a href="http://zh.cn.nikkei.com/politicsaeconomy/economic-policy/41406-2020-07-27-05-00-01.html" target="_blank">印度想構建「自立經濟圈」</a></li><li><a href="http://zh.cn.nikkei.com/politicsaeconomy/epolitics/38532-2019-12-11-09-17-02.html" target="_blank">預測：印度GDP2029年超日本</a></li></ul><div style="margin-bottom:10px;"></div><dt>
+<a href="http://zh.cn.nikkei.com/politicsaeconomy/commodity/41740-2020-08-24-04-20-00.html" target="_blank">日本進口澳洲牛肉降價，中國轉向巴西牛</a>
+</dt>
+<dd>
+<div class="picture"><a href="http://zh.cn.nikkei.com/politicsaeconomy/commodity/41740-2020-08-24-04-20-00.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0819/0819-14-T.jpg" width="90" height="70" alt="日本進口澳洲牛肉降價，中國轉向巴西牛" /></a></div>
+<div class="content" style="margin-bottom:5px">澳洲牛五花肉在日本的批發價每公斤約合人民幣39.1元，比7月下降8％。中國曾是澳洲牛肉最大進口國，進口量最近3年增至3倍。但目前中國正在減少採購。一方面，7月巴西冷凍牛肉對華出口量猛增至上年3倍……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><ul class="listStyle01" style="margin-top:0px">
+<li><a href="http://zh.cn.nikkei.com/politicsaeconomy/investtrade/39398-2020-02-18-05-00-00.html" target="_blank">日本牛肉繞路柬埔寨端上中國人餐桌</a></li><li><a href="http://zh.cn.nikkei.com/politicsaeconomy/commodity/40680-2020-05-28-04-53-59.html" target="_blank">日本「和牛」陷苦境，越養越賠錢</a></li><li><a href="http://zh.cn.nikkei.com/politicsaeconomy/commodity/39449-2020-02-19-09-18-56.html" target="_blank">低價澳洲牛肉可能湧入日本，原因和中國…</a></li><li><a href="http://zh.cn.nikkei.com/politicsaeconomy/commodity/36088-2019-06-24-05-00-10.html" target="_blank">日本最高級A5和牛肉越來越多的煩惱 </a></li><li><a href="http://zh.cn.nikkei.com/industry/tradingretail/41404-2020-07-24-05-00-00.html" target="_blank">松阪牛、神戶牛，日本哪的和牛「最牛」…</a></li><li><a href="http://zh.cn.nikkei.com/industry/tradingretail/40330-2020-04-29-05-00-00.html" target="_blank">美味且稀有！日本唯一「監獄和牛」什麼…</a></li></ul><div style="margin-bottom:10px;"></div></dl></div>
+
+						<!-- ##### 主要新聞１ End ##### -->
+			
+			<!-- ##### 主要新聞２ Start ##### -->
+			<div class="newsStyle01 brdbtLine01 mB10">
+<h2 class="style03"><p style="font-size: 18px;">主要新聞</p></h2>
+<dl class="newsContent01">
+<dt>
+<a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41782-2020-08-24-15-53-36.html" target="_blank">美國微信用戶提起訴訟，稱總統令違憲</a>
+</dt>
+<dd>
+<div class="content" style="margin-bottom:5px">原告方主張8月6日簽署的總統令試圖禁止在美國使用微信，侵害了言論自由等……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><ul class="listStyle01" style="margin-top:0px">
+<li><a href="http://zh.cn.nikkei.com/china/ccompany/41588-2020-08-07-11-32-03.html" target="_blank">川普簽總統令45天後禁微信交易</a></li></ul><div style="margin-bottom:10px;"></div><dt>
+<a href="http://zh.cn.nikkei.com/industry/itelectric-appliance/41767-2020-08-24-09-22-53.html" target="_blank">中國地鐵開始配備LG顯示器的透明OLED屏</a>
+</dt>
+<dd>
+<div class="content" style="margin-bottom:5px">北京和深圳的地鐵車輛已安裝。LG顯示器表示這是世界上首次將OLED屏安裝到地鐵車輛上……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><ul class="listStyle01" style="margin-top:0px">
+<li><a href="http://zh.cn.nikkei.com/industry/itelectric-appliance/41450-2020-07-29-05-00-34.html" target="_blank">三星獨佔iPhone用OLED面板的…</a></li><li><a href="http://zh.cn.nikkei.com/industry/manufacturing/41017-2020-06-22-08-53-56.html" target="_blank">日本JOLED與中國TCL將聯合研發…</a></li></ul><div style="margin-bottom:10px;"></div><dt>
+<a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41766-2020-08-24-09-02-14.html" target="_blank">臨時返日的日本人及家屬可重新申請赴華簽證</a>
+</dt>
+<dd>
+<div class="content" style="margin-bottom:5px">中國駐日本大使館發佈通知，只要日籍人員持有中方有效居留許可，可重新遞交簽證申請……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><dt>
+<a href="http://zh.cn.nikkei.com/industry/manufacturing/41774-2020-08-24-11-05-42.html" target="_blank">日本IHI研發衛星引擎新技術，價格降至1/3</a>
+</dt>
+<dd>
+<div class="content" style="margin-bottom:5px">歐洲企業在零部件上採用銥等貴金屬材料，但IHI以廉價的不銹鋼使之具備耐火性和耐久性……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><ul class="listStyle01" style="margin-top:0px">
+<li><a href="http://zh.cn.nikkei.com/industry/scienceatechnology/41364-2020-07-21-01-30-31.html" target="_blank">新興勢力相繼加入太空開發競賽</a></li></ul><div style="margin-bottom:10px;"></div><dt>
+<a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41754-2020-08-21-09-52-50.html" target="_blank">美國提議修改APEC數據流通規則</a>
+</dt>
+<dd>
+<div class="content" style="margin-bottom:5px">這被認為意在使規則從APEC框架獨立出來，排除中國……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><ul class="listStyle01" style="margin-top:0px">
+<li><a href="http://zh.cn.nikkei.com/china/ccompany/41491-2020-08-04-04-30-00.html" target="_blank">支付寶經濟圈壯大到了何種程度？</a></li><li><a href="http://zh.cn.nikkei.com/industry/scienceatechnology/41179-2020-07-14-04-41-00.html" target="_blank">登頂世界第一的日本超算「富岳」強在哪…</a></li></ul><div style="margin-bottom:10px;"></div><dt>
+<a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41764-2020-08-21-15-08-13.html" target="_blank">日本劇作家&#183;評論家山崎正和去世</a>
+</dt>
+<dd>
+<div class="content" style="margin-bottom:5px">山崎正和曾被授予日本文化勳章。享年86歲……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><dt>
+<a href="http://zh.cn.nikkei.com/career/abroadstudy/41763-2020-08-21-14-44-04.html" target="_blank">東京大學將首次發行40年期大學債</a>
+</dt>
+<dd>
+<div class="content" style="margin-bottom:5px">獲得了日本評等研究所的最高級「AAA」信用評等，以及日本評等投資信息中心的「AA+」……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><ul class="listStyle01" style="margin-top:0px">
+<li><a href="http://zh.cn.nikkei.com/columnviewpoint/column/40501-2020-05-12-04-42-00.html" target="_blank">從東京大學看日本的企業家精神</a></li></ul><div style="margin-bottom:10px;"></div><dt>
+<a href="http://zh.cn.nikkei.com/industry/propertiesconstruction/41751-2020-08-21-08-51-26.html" target="_blank">東京圈新房發售量時隔10個月轉增</a>
+</dt>
+<dd>
+<div class="content" style="margin-bottom:5px">拉動因素是遠離中心的郊區。疫情下居家辦公普及，相比與車站的距離，客戶更傾向於買大房……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><dt>
+<a href="http://zh.cn.nikkei.com/industry/itelectric-appliance/41757-2020-08-21-11-11-24.html" target="_blank">NEC旗下公司開始在日本租售中國雲跡機器人</a>
+</dt>
+<dd>
+<div class="content" style="margin-bottom:5px">該機器人為北京雲跡科技公司的産品，裝載重量是NEC Networks此前的配送機器人的約10倍……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><ul class="listStyle01" style="margin-top:0px">
+<li><a href="http://zh.cn.nikkei.com/industry/manufacturing/40312-2020-04-28-05-03-00.html" target="_blank">疫情催熱機器人需求，中國先行</a></li><li><a href="http://zh.cn.nikkei.com/industry/manufacturing/40070-2020-04-23-05-04-56.html" target="_blank">日歐機器人企業在中國佈局疫情後</a></li></ul><div style="margin-bottom:10px;"></div><dt>
+<a href="http://zh.cn.nikkei.com/politicsaeconomy/stockforex/41755-2020-08-21-09-51-23.html" target="_blank">人民幣兌美元匯率處於7個月以來高點附近</a>
+</dt>
+<dd>
+<div class="content" style="margin-bottom:5px">美國零利率政策有望長期化，中美利率差擴大導致買入人民幣、賣出美元的操作……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><ul class="listStyle01" style="margin-top:0px">
+<li><a href="http://zh.cn.nikkei.com/politicsaeconomy/commodity/41609-2020-08-11-05-00-38.html" target="_blank">黃金價格是在拷問美元信用</a></li><li><a href="http://zh.cn.nikkei.com/politicsaeconomy/stockforex/41464-2020-07-29-10-50-46.html" target="_blank">美元等法定貨幣面臨「信任危機」？</a></li></ul><div style="margin-bottom:10px;"></div></dl></div>
+
+			<!-- ##### 主要新聞２ End ##### -->
+			
+			<!-- ##### 主要新聞３ Start ##### -->
+			
+			<!-- ##### 主要新聞３ End ##### -->
+			
+			<!-- ##### 特集 Start ##### -->
+			<div class="newsStyle01 mB10">
+<h2 class="style03"><p style="font-size: 18px;">好文重讀：二次元産業</p></h2>
+<div class="newsBox01">
+<dl class="newsContent01">
+<dt><a href="http://zh.cn.nikkei.com/trend/cool-japan/41591-2020-08-11-08-31-36.html" target="_blank">《鬼滅之刃》為什麼能爆紅？</a>
+</dt>
+<dd>
+<p class="picture"><a href="http://zh.cn.nikkei.com/trend/cool-japan/41591-2020-08-11-08-31-36.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0807/0807-11-1-T.jpg" width="90" height="70" alt="《鬼滅之刃》為什麼能爆紅？" /></a></p>
+<div class="content">索尼旗下的Aniplex製作的《鬼滅之刃》成為了現象級爆款。Aniplex社長岩上敦宏認為，我們一直堅持「創作者優先」。就算是錯過一
+</div>
+</dd><dt><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/36528-2019-07-19-01-08-23.html" target="_blank">京都動畫是家怎樣的企業</a>
+</dt>
+<dd>
+<p class="picture"><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/36528-2019-07-19-01-08-23.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2019/07/0719/0719-05-2-TT.jpg" width="90" height="70" alt="京都動畫是家怎樣的企業" /></a></p>
+<div class="content">被放火的日本京都動畫公司因細膩的畫風和巧妙的故事呈現方式而廣為熟知，曾推出過成為社會現象的《輕音少女》和《涼宮春日的憂傷》等大熱作品
+</div>
+</dd><dt><a href="http://zh.cn.nikkei.com/trend/cool-japan/34333-2019-02-18-05-00-24.html" target="_blank">日本御宅族在什麼上花錢最多？</a></dt>
+<dd>
+</dd><dt><a href="http://zh.cn.nikkei.com/trend/cool-japan/36154-2019-07-12-05-00-20.html" target="_blank">好吃又快手，最適合還原的5個二次元菜譜</a></dt>
+<dd>
+</dd><dt><a href="http://zh.cn.nikkei.com/columnviewpoint/column/26701-2017-08-28-04-54-00.html" target="_blank">中國「二次元歌星」圈9在日本力挺中國動漫</a></dt>
+<dd>
+</dd><dt><a href="http://zh.cn.nikkei.com/trend/cool-japan/32482-2018-10-05-05-02-20.html" target="_blank">Access Bright：中日之間的娛樂業橋樑</a></dt>
+<dd>
+</dd><dt><a href="http://zh.cn.nikkei.com/trend/cool-japan/33676-2019-01-21-05-00-20.html" target="_blank">日本動漫産業借助中美資金實現進化</a></dt>
+<dd>
+</dd><dt><a href="http://zh.cn.nikkei.com/trend/cool-japan/33690-2019-01-21-05-00-32.html" target="_blank">日本動漫新風：翻拍作品與中日合作在增加</a></dt>
+<dd>
+</dd><dt><a href="http://zh.cn.nikkei.com/industry/tradingretail/37367-2019-09-20-05-00-00.html" target="_blank">日本動畫「聖地」打開全球旅遊業一扇門</a></dt>
+<dd>
+</dd><dt><a href="http://zh.cn.nikkei.com/trend/cool-japan/40184-2020-04-15-05-00-31.html" target="_blank">奈飛抓住「宅家」需求積極製作日本動畫</a></dt>
+<dd>
+</dd><dt><a href="http://zh.cn.nikkei.com/china/ccompany/40019-2020-05-11-04-40-00.html" target="_blank">中國企業開始在日本吸納動漫人才</a></dt>
+<dd>
+</dd><dt><a href="http://zh.cn.nikkei.com/industry/management-strategy/40286-2020-04-23-04-40-00.html" target="_blank">中美動畫製作商到日本高薪挖人</a></dt>
+<dd>
+</dd><dt><a href="http://zh.cn.nikkei.com/industry/management-strategy/41560-2020-08-10-05-00-00.html" target="_blank">索尼的二次元大廠之路:鬼滅之刃開闢新世界</a></dt>
+<dd>
+</dd></dl></div></div>
+
+			<!-- ##### 特集 End ##### -->
+
+			<!-- ##### 更多頭條 Start ##### -->
+			
+			<!-- ##### 更多頭條 End ##### -->
+
+			<!-- ##### 特輯：日本老齡化和機會 Start ##### -->
+			
+			<!-- ##### 特輯：日本老齡化和機會 End ##### -->
+		</div>
+		<!-- ##### 左&#12467;&#12531;&#12486;&#12531;&#12484;（右側） End ##### -->
+		
+		<!-- ##### 左&#12467;&#12531;&#12486;&#12531;&#12484;（左側） Start ##### -->
+		<div class="column-1 frt ">
+			<!-- ##### 特集&#12467;&#12521;&#12512;１ Start ##### -->
+			<div class="newsStyle01 mB10">
+<h2 class="style03"><p style="font-size: 18px;">
+<a href="http://zh.cn.nikkei.com/component/tags/tag/2017-02-22-10-21-52.html" target="_blank">日本政壇</a>
+<a class="more" href="http://zh.cn.nikkei.com/component/tags/tag/2017-02-22-10-21-52.html" target="_blank">更多</a>
+</p></h2>
+<div class="newsBox01">
+<dl class="newsContent01">
+<dt><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41773-2020-08-24-02-34-06.html" target="_blank">安倍刷新日本首相最長連任天數之後</a>
+</dt>
+<dd>
+<p class="picture"><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41773-2020-08-24-02-34-06.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0824/0824-07-1-T.jpg" width="90" height="70" alt="安倍刷新日本首相最長連任天數之後" /></a></p>
+<div class="content">安倍刷新創歷史紀錄的最長任期，也讓日本政界感覺剩餘任期已經不長。在剩下的任期裏安倍將為兼顧疫情和經濟復甦絞盡腦汁，擔憂身體狀況的聲音不絕於耳。日本政壇「安倍1強」的格局開始籠罩陰影……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/component/tags/tag/2017-02-22-10-21-52.html" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E">日本政壇</span></a></span></div>
+</dd><dt><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41768-2020-08-24-01-25-27.html" target="_blank">安倍再次前往醫院</a>
+</dt>
+<dd>
+<p class="picture"><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41768-2020-08-24-01-25-27.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0824/0824-0-T.jpg" width="90" height="70" alt="安倍再次前往醫院" /></a></p>
+<div class="content">日本首相安倍晉三8月24日上午再次來到了東京都內慶應大學的醫院。安倍周邊的人士表示：上次來的時候，醫生要求1周後再來，此次是上次的繼續……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><dt><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41770-2020-08-24-09-50-22.html" target="_blank">安倍刷新日本首相連續在任天數紀錄</a></dt>
+<dd>
+</dd><dt><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41670-2020-08-14-10-36-27.html" target="_blank">支持安倍擔任下屆首相的比例下降</a></dt>
+<dd>
+</dd><dt><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41719-2020-08-19-10-33-55.html" target="_blank">安倍體檢後到私宅靜養，19日正式返崗</a></dt>
+<dd>
+</dd><dt><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41063-2020-06-28-04-41-00.html" target="_blank">後安倍時代（上）新冠讓政權禪讓變得困難</a></dt>
+<dd>
+</dd><dt><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41080-2020-07-01-05-00-03.html" target="_blank">後安倍時代（下）群雄相爭誰是黑馬？</a></dt>
+<dd>
+</dd></dl></div></div>
+
+			<!-- ##### 特集&#12467;&#12521;&#12512;１ End ##### -->
+			
+			<!-- ##### 中日茶坊 Start ##### -->
+			
+			<!-- ##### 中日茶坊 End ##### -->
+			
+			<!-- ##### &#12473;&#12521;&#12452;&#12480;&#12540;&#12491;&#12517;&#12540;&#12473; Start ##### -->
+			<div class="cjSlider mB10">
+<script> var slider3Count = 5; </script>
+<div id="slider3" class="slider3">
+<table id="sliderContent3" class="sliderContent3">
+<tbody><tr>
+<td>
+<a href="http://zh.cn.nikkei.com/industry/tradingretail/41778-2020-08-24-13-56-57.html" target="_blank">
+<img src="http://zh.cn.nikkei.com/images/2020/08/0824/0824-15-SS.jpg" width="287" height="240" alt="">
+<span>《花木蘭》在日本將網路獨播不上院線</span>
+</a>
+</td>
+<td>
+<a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41753-2020-08-21-09-22-11.html" target="_blank">
+<img src="http://zh.cn.nikkei.com/images/2020/08/0821/0821-07-1-M.jpg" width="287" height="240" alt="">
+<span>安倍自稱身體「沒有問題」</span>
+</a>
+</td>
+<td>
+<a href="http://zh.cn.nikkei.com/trend/tourism/41739-2020-08-20-11-08-58.html" target="_blank">
+<img src="http://zh.cn.nikkei.com/images/2020/08/0820/0820-10-2-S.jpg" width="287" height="240" alt="">
+<span>從觀景臺俯瞰神戶「千萬美金級」夜景</span>
+</a>
+</td>
+<td>
+<a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41718-2020-08-19-10-40-25.html" target="_blank">
+<img src="http://zh.cn.nikkei.com/images/2020/08/0819/0819-08-T-287.jpg" width="287" height="240" alt="">
+<span>日本1周的中暑送醫人數創今年新高，30人死亡</span>
+</a>
+</td>
+<td>
+<a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41709-2020-08-18-16-15-21.html" target="_blank">
+<img src="http://zh.cn.nikkei.com/images/2020/08/0818/0818-15-287-S.jpg" width="287" height="240" alt="">
+<span>棒球少年們在甲子園交流賽圓夢</span>
+</a>
+</td>
+</tr></tbody>
+</table>
+<div class="slider1Func fix frt">
+<a href="javascript:void(0);" id="sliderPrev3"><img src="http://zh.cn.nikkei.com/templates/nikkeisite/common/images/btn_prev.gif" width="15" height="15" alt="prev"></a>
+<ul id="sliderNum3" class="fix">
+</ul>
+<a href="javascript:void(0);" id="sliderNext3"><img src="http://zh.cn.nikkei.com/templates/nikkeisite/common/images/btn_next.gif" width="15" height="15" alt="next"></a>
+</div>
+</div></div>
+<input id="num" type="hidden" value="5"/>
+<script type="text/javascript" src="http://zh.cn.nikkei.com/templates/nikkeisite/common/scripts/slider3.js"></script>
+
+			<!-- ##### &#12473;&#12521;&#12452;&#12480;&#12540;&#12491;&#12517;&#12540;&#12473; End ##### -->
+			
+			<!-- ##### 特集&#12467;&#12521;&#12512;２ Start ##### -->
+			<div class="newsStyle01">
+<h2 class="style03"><p style="font-size: 18px;">
+<a href="http://zh.cn.nikkei.com/columnviewpoint.html" target="_blank">專欄&#183;分析</a>
+<a class="more" href="http://zh.cn.nikkei.com/columnviewpoint.html" target="_blank">&#9654; 更多</a>
+</p></h2>
+<dl class="newsContent01">
+<dt><a href="http://zh.cn.nikkei.com/politicsaeconomy/commodity/41726-2020-08-21-04-59-11.html" target="_blank">澳大利亞將構建稀土的一條龍生産體制</a>
+</dt>
+<dd>
+<div class="picture"><a href="http://zh.cn.nikkei.com/politicsaeconomy/commodity/41726-2020-08-21-04-59-11.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0818-11-1-T.jpg" width="90" height="70" alt="澳大利亞將構建稀土的一條龍生産體制" /></a></div>
+<div class="content" style="margin-bottom:5px">澳大利亞雖為世界第4大稀土開採國，但提煉和分離工序需要一定技術，環境負荷較大，因此至今在這方面大多依賴於中國……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><dt><a href="http://zh.cn.nikkei.com/industry/manufacturing/41761-2020-08-21-14-11-25.html" target="_blank">吳德南集團將收購日本塗料</a>
+</dt>
+<dd>
+<div class="picture"><a href="http://zh.cn.nikkei.com/industry/manufacturing/41761-2020-08-21-14-11-25.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0821/0821-13-1-T.jpg" width="90" height="70" alt="吳德南集團將收購日本塗料" /></a></div>
+<div class="content" style="margin-bottom:5px">吳德南集團是新加坡華僑係的企業，日本塗料控股是日本塗料行業的最大企業，是中國「立邦」的母公司，收購金額約為1.3萬億日元。亞洲企業收購日本大型原材料企業屬於首次……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><dt><a href="http://zh.cn.nikkei.com/politicsaeconomy/commodity/41749-2020-08-21-08-45-16.html" target="_blank">中國大量採購美國玉米</a>
+</dt>
+<dd>
+<div class="picture"><a href="http://zh.cn.nikkei.com/politicsaeconomy/commodity/41749-2020-08-21-08-45-16.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0820/0820-13-1-T.jpg" width="90" height="70" alt="中國大量採購美國玉米" /></a></div>
+<div class="content" style="margin-bottom:5px">中國是玉米的主要生産國之一，採取自給政策，但由於乾旱和蟲害，産量減少的隱憂在增強。另一方面，由於增加養豬頭數，飼料需求迅速增加。大連商品交易所的玉米期貨行情處於約5年來的高點附近……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/component/tags/tag/2017-07-20-02-44-37.html" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E">中美關係</span></a></span></div>
+</dd><dt><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41744-2020-08-21-04-49-59.html" target="_blank">日本原神風特攻隊員的苦惱：「不想死」</a>
+</dt>
+<dd>
+<div class="picture"><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41744-2020-08-21-04-49-59.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0820-11-2-T.jpg" width="90" height="70" alt="日本原神風特攻隊員的苦惱：「不想死」" /></a></div>
+<div class="content" style="margin-bottom:5px">「特攻很悲慘。非常悔恨」，93歲的原特攻隊員鳥谷邦武咬著嘴唇説道。戰爭過去75年，直接通過親歷者了解真實歷史的機會越來越少。不過，將特攻隊員們的苦惱公之於世、揭示真相的動向在日本以外國家和地區也在擴大……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><dt><a href="http://zh.cn.nikkei.com/politicsaeconomy/epolitics/41707-2020-08-20-04-59-22.html" target="_blank">全球主要國家GDP萎縮1成</a>
+</dt>
+<dd>
+<div class="picture"><a href="http://zh.cn.nikkei.com/politicsaeconomy/epolitics/41707-2020-08-20-04-59-22.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0818/0818-10-3-T.jpg" width="90" height="70" alt="全球主要國家GDP萎縮1成" /></a></div>
+<div class="content" style="margin-bottom:5px">日本經濟新聞將佔世界GDP3分之2的中美日英、加拿大和歐元區國家等總計24國作為「主要國家」進行了統計。4~6月GDP萎縮幅度達到雷曼危機時的約3.5倍，唯一實現增長的是中國……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><dt><a href="http://zh.cn.nikkei.com/china/cfinancial/41730-2020-08-20-00-58-50.html" target="_blank">中國防範貴金屬和股市投資過熱</a>
+</dt>
+<dd>
+<div class="picture"><a href="http://zh.cn.nikkei.com/china/cfinancial/41730-2020-08-20-00-58-50.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0820/0820-01-2-T.jpg" width="90" height="70" alt="中國防範貴金屬和股市投資過熱" /></a></div>
+<div class="content" style="margin-bottom:5px">在新型冠狀病毒疫情導致外需萎靡不振的背景下，不得不持續通過貨幣寬鬆支來撐經濟。在防止伴隨投機的過熱和暴跌的同時，維持適度的上漲預期這一微妙的調控似乎將持續……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><dt><a href="http://zh.cn.nikkei.com/industry/management-strategy/41691-2020-08-20-05-00-07.html" target="_blank">日本半導體材料廠商轉向在韓國生産</a>
+</dt>
+<dd>
+<div class="picture"><a href="http://zh.cn.nikkei.com/industry/management-strategy/41691-2020-08-20-05-00-07.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0817/0817-02-1-T.jpg" width="90" height="70" alt="日本半導體材料廠商轉向在韓國生産" /></a></div>
+<div class="content" style="margin-bottom:5px">日本加強對韓出口管制1年，韓國加強半導體材料的國産化。韓國企業佔據全球半導體記憶體過半份額，半導體相關産業越來越向韓國集聚。日本材料廠商採取各種方式維持與韓國交易……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/top/2019-08-29-01-32-09.html" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E">日韓關係</span></a></span></div>
+</dd><dt><a href="http://zh.cn.nikkei.com/industry/manufacturing/41735-2020-08-20-09-29-58.html" target="_blank">松下重啟面向特斯拉的電池增産投資</a>
+</dt>
+<dd>
+<div class="picture"><a href="http://zh.cn.nikkei.com/industry/manufacturing/41735-2020-08-20-09-29-58.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0820/0820-04-1-T.jpg" width="90" height="70" alt="松下重啟面向特斯拉的電池增産投資" /></a></div>
+<div class="content" style="margin-bottom:5px">松下始終堅持根據收益性判斷是否增産投資，曾于2019年凍結增産計劃，因特斯拉銷售情況好轉，決定重啟計劃。一方面，特斯拉逐步向寧德時代、LG化學採購電池。如果松下對投資過於謹慎，可能會讓中韓企業崛起……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><dt><a href="http://zh.cn.nikkei.com/industry/itelectric-appliance/41705-2020-08-19-05-00-00.html" target="_blank">「蘋果變心」給鴻海提出考驗</a>
+</dt>
+<dd>
+<div class="picture"><a href="http://zh.cn.nikkei.com/industry/itelectric-appliance/41705-2020-08-19-05-00-00.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0814/0814-14-T.jpg" width="90" height="70" alt="「蘋果變心」給鴻海提出考驗" /></a></div>
+<div class="content" style="margin-bottom:5px">美國蘋果等客戶的業績強勁，但鴻海盈利能力卻逐年下降，大陸新興企業和台灣競爭對手在構建包圍網，而背後主導者正是蘋果。郭台銘是當機立斷，而劉揚偉則是通過符合邏輯的判斷推進經營……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><dt><a href="http://zh.cn.nikkei.com/china/ccompany/41690-2020-08-19-04-59-56.html" target="_blank">非洲對華為依存加強，與美國保持距離</a>
+</dt>
+<dd>
+<div class="picture"><a href="http://zh.cn.nikkei.com/china/ccompany/41690-2020-08-19-04-59-56.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0817/0817-15-1-T-REUTERS.jpg" width="90" height="70" alt="非洲對華為依存加強，與美國保持距離" /></a></div>
+<div class="content" style="margin-bottom:5px">與要求排除中國産品的美國保持距離的趨勢在非洲各國顯得突出。華為在擁有13億人口的非洲大陸的使用被認為已不可避免……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><dt><a href="http://zh.cn.nikkei.com/politicsaeconomy/commodity/41714-2020-08-19-09-13-56.html" target="_blank">必和必拓對中國的依賴顯著</a>
+</dt>
+<dd>
+<div class="picture"><a href="http://zh.cn.nikkei.com/politicsaeconomy/commodity/41714-2020-08-19-09-13-56.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0819/0819-01-1-T.jpg" width="90" height="70" alt="必和必拓對中國的依賴顯著" /></a></div>
+<div class="content" style="margin-bottom:5px">必和必拓集團鐵礦石部門實現增收和利潤增長，銷售額佔整體的約5成，支撐強勁表現的是銷量佔到約8成的中國市場。中澳雖然在外交領域有碰撞，但在鐵礦石領域相互依存……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd></dl></div>
+
+			<!-- ##### 特集&#12467;&#12521;&#12512;２ End ##### -->
+		</div>
+		<!-- ##### 左&#12467;&#12531;&#12486;&#12531;&#12484;（左側） End ##### -->
+	<!-- delete cube 2016/11/02 start
+	</div>
+	delete cube 2016/11/02 end -->
+	
+	<!-- ##### 中央下段&#12467;&#12531;&#12486;&#12531;&#12484; Start ##### -->
+	
+	<!-- ##### &#12486;&#12461;&#12473;&#12488;&#24195;告２ Start ##### -->
+	<div class="prStyle01 mB10 mT20">
+	
+<p></p>
+<!-- Nikkeichina_InRead_Article -->
+<script type="text/javascript" class="teads" src="http://zh.cn.nikkei.com//a.teads.tv/page/96715/tag" async="true"></script>
+<div class="ad different fix">
+<table border="0">
+<tbody><!-- Nikkeichina_PremiumText -->
+<tr>
+<td style="vertical-align: top;"><img style="margin-top: 4px !important; margin-right: 10px !important; margin-left: 15px !important;" alt="ad" src="http://zh.cn.nikkei.com/templates/nikkeisite/common/images/ad/pr-logo.gif" /></td>
+<td>
+<script type="text/javascript">// <![CDATA[
+if ((document.domain == 'zh.cn.nikkei.com') || (location.port == '8080')){
+document.open();
+document.write("<div id='div-gpt-ad-1331609609238-4' style='width: auto; height: 21px'>");
+document.close();
+googletag.display('div-gpt-ad-1331609609238-4');
+document.open();
+document.write("</div>");
+document.close();
+}else{
+document.open();
+document.write("<div id='div-gpt-ad-1331609609238-4' style='width: auto; height: 21px'>");
+document.close();
+googletag.display('div-gpt-ad-1331609609238-4');
+document.open();
+document.write("</div>");
+document.close();
+}
+// ]]></script>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+	</div>
+	<!-- ##### &#12486;&#12461;&#12473;&#12488;&#24195;告２ End ##### -->
+	
+	<!-- #### 注目 &#215;４ Start ##### -->
+	<div class="newsBlock01 fix">
+		<div class="column-1 flt">
+			<div class="newsStyle01 mB10">
+<h2 class="style03"><p style="font-size: 18px;">調查</p></h2>
+<dl class="newsContent01">
+<dt><a href="http://zh.cn.nikkei.com/industry/itelectric-appliance/41722-2020-08-19-11-23-29.html" target="_blank">特斯拉股價飆升，馬斯克成世界第4大富豪</a>
+</dt>
+<dd>
+<p class="picture"><a href="http://zh.cn.nikkei.com/industry/itelectric-appliance/41722-2020-08-19-11-23-29.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0819/0819-09-T-REUTERS.jpg" width="90" height="70" alt="特斯拉股價飆升，馬斯克成世界第4大富豪"/></a></p>
+<div class="content">得益於手中約18％的特斯拉股價的上漲，截至8月17日，馬斯克的凈資産達到848億美元……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd>
+<dt><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41670-2020-08-14-10-36-27.html" target="_blank">支持安倍擔任下屆首相的比例下降</a>
+</dt>
+<dd>
+<p class="picture"><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41670-2020-08-14-10-36-27.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/06/0624/0624-10-T.jpg" width="90" height="70" alt="支持安倍擔任下屆首相的比例下降"/></a></p>
+<div class="content">比較7月和1月的輿論調查後發現，針對適合擔任下屆首相的人選，選擇安倍的比例從17％下降到了12％。尤其是在希望修憲等的群體中，安倍的支持率顯著下降。支持率上升的有……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/component/tags/tag/2017-02-22-10-21-52.html" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E">日本政壇</span></a></span></div>
+</dd>
+<dt><a href="http://zh.cn.nikkei.com/trend/cool-japan/41645-2020-08-14-05-00-00.html" target="_blank">日本動漫出口超1萬億日元，4年增至3倍</a>
+</dt>
+<dd>
+<p class="picture"><a href="http://zh.cn.nikkei.com/trend/cool-japan/41645-2020-08-14-05-00-00.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2019/07/0718/0718-17-1-T.jpg" width="90" height="70" alt="日本動漫出口超1萬億日元，4年增至3倍"/></a></p>
+<div class="content">日本的內容産業在民間企業主導下發展起來，面向國內市場製作出大量高質量作品，同時也吸引了海外粉絲。美國奈飛、中國嗶哩嗶哩等均購買了日本動漫的版權。日本動漫産業的約5成銷售額來自海外……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd>
+<dt><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41668-2020-08-14-09-56-37.html" target="_blank">日本人都戴什麼口罩？</a>
+</dt>
+<dd>
+<p class="picture"><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41668-2020-08-14-09-56-37.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/07/0715/0715-12-T.jpg" width="90" height="70" alt="日本人都戴什麼口罩？"/></a></p>
+<div class="content">日本Planet公司以多選形式調查了日本人佩戴的口罩種類。政府發放的「安倍口罩」的佩戴者僅佔3.5％，想繼續戴的只有2％。四分之一女性戴手工口罩。佩戴最多的是……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd>
+</dl>
+</div>
+			
+		</div>
+		<div class="column-1 frt">
+			<div class="newsStyle01 mB10">
+<h2 class="style03"><p style="font-size: 18px;">
+<a href="http://zh.cn.nikkei.com/trend.html" target="_blank">穿梭日本&#183;新産品</a>
+<a class="more" href="http://zh.cn.nikkei.com/trend.html" target="_blank">&#9654; &#8201;更多</a>
+</p></h2>
+<dl class="newsContent01">
+<dt><a href="http://zh.cn.nikkei.com/politicsaeconomy/efinance/41758-2020-08-21-11-30-57.html" target="_blank">日本的銀行開始對新申領紙質存摺收費了</a>
+</dt>
+<dd>
+<p class="picture"><a href="http://zh.cn.nikkei.com/politicsaeconomy/efinance/41758-2020-08-21-11-30-57.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0821/0821-11-T.jpg" width="90" height="70" alt="日本的銀行開始對新申領紙質存摺收費了"/></a></p>
+<div class="content">瑞穗銀行以新開設帳戶的個人和企業為對象，在發放紙質存摺時將收取1千日元手續費，用戶可選擇不收手續費的電子存摺。在日本的大型銀行中，瑞穗是第一家對紙質存摺收費的銀行……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd>
+<dt><a href="http://zh.cn.nikkei.com/industry/tradingretail/41720-2020-08-20-04-59-56.html" target="_blank">高絲將推出男士基礎護膚品牌</a>
+</dt>
+<dd>
+<p class="picture"><a href="http://zh.cn.nikkei.com/industry/tradingretail/41720-2020-08-20-04-59-56.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0818/0818-13-T.jpg" width="90" height="70" alt="高絲將推出男士基礎護膚品牌"/></a></p>
+<div class="content">雖然男士護膚品僅佔日本國內護膚市場的2％左右，但尚有很多男士未使用過化粧品，被認為潛在需求很高。高絲採取相對較高的定價，負責人表示「我們推出了多款高功能産品」……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd>
+<dt><a href="http://zh.cn.nikkei.com/trend/cool-japan/41706-2020-08-19-04-59-58.html" target="_blank">高達秋葉原咖啡店重裝開業，這次有什麼不同？</a>
+</dt>
+<dd>
+<p class="picture"><a href="http://zh.cn.nikkei.com/trend/cool-japan/41706-2020-08-19-04-59-58.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0817/0817-03-2-T.jpg" width="90" height="70" alt="高達秋葉原咖啡店重裝開業，這次有什麼不同？"/></a></p>
+<div class="content">以《機動戰士鋼彈》為主題的旗艦店「高達咖啡店秋葉原店」重裝升級後盛大開業，在疫情防控措施方面也彰顯出「高達特色」，店裏為客人發放鋼彈主題的專用面罩，也可以花300日元購買……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd>
+<dt><a href="http://zh.cn.nikkei.com/industry/tradingretail/41695-2020-08-18-08-42-59.html" target="_blank">日企通過中國網紅在淘寶直播帶貨</a>
+</dt>
+<dd>
+<p class="picture"><a href="http://zh.cn.nikkei.com/industry/tradingretail/41695-2020-08-18-08-42-59.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0817/0817-13-T.jpg" width="90" height="70" alt="日企通過中國網紅在淘寶直播帶貨"/></a></p>
+<div class="content">提供營銷支援服務的日本Allied Architects選擇生活在日本的中國網紅，通過淘寶直播推廣日企的産品，幫助日企在訪日遊客銳減的背景下開拓中國市場……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd>
+</dl>
+</div>
+			
+		</div>
+	</div>
+
+	<!-- mod by cube 20180326 start -->
+	<div class="advs prStyle01">
+			
+	</div>
+	<!-- mod by cube 20180326 end -->
+
+	<!-- delete cube 2016/11/02 start -->
+	</div>
+	<!-- delete cube 2016/11/02 end -->
+	<!-- #### 注目 &#215;４ End ##### -->
+	
+	<!-- ##### 中央下段&#12467;&#12531;&#12486;&#12531;&#12484; End ##### -->
+
+	</div>
+				<!-- ##### Left Contents End ##### -->
+				<!-- ##### Right Contents Start ##### -->
+	<div class="aside">
+		<!-- ##### &#24195;告（右）１ Start ##### -->
+		<div class="asideAdv mB10">
+			
+<p></p>
+<!-- Nikkeichina_Rectangle_1 -->
+<script type="text/javascript">// <![CDATA[
+if ((document.domain == 'zh.cn.nikkei.com') || (location.port == '8080')){
+document.open();
+document.write("<!-- zh --><div id='div-gpt-ad-1490664454203-0'>");
+document.close();
+googletag.display('div-gpt-ad-1490664454203-0');
+document.open();
+document.write("</div>");
+document.close();
+}else{
+document.open();
+document.write("<!-- cn --><div id='div-gpt-ad-1331609609238-2'>");
+document.close();
+googletag.display('div-gpt-ad-1331609609238-2');
+document.open();
+document.write("</div>");
+document.close();
+
+}
+// ]]></script>
+<p></p>
+<!-- /7049/Nikkeichina_300*50 -->
+<div id="div-gpt-ad-1444793180211-0" style="margin-top: 5px; height: 0px;">
+<script type="text/javascript">// <![CDATA[
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1444793180211-0'); });
+// ]]></script>
+</div>
+		</div>
+		<!-- ##### &#24195;告（右）１ End ##### -->
+		<!-- ##### &#12501;&#12457;&#12540;&#12459;&#12473; Start ##### -->
+		<div class="newsStyle01 mB10"><h2 class="style03"><p style="font-size: 18px;"><a href=http://zh.cn.nikkei.com/columnviewpoint/kelongcolumn.html target="_blank">老柯要説話</a><a href=http://zh.cn.nikkei.com/columnviewpoint/kelongcolumn.html target="_blank" class="more_white">更多</a></p></h2></p></h2><dl  class="newsContent01"><dt><a href="http://zh.cn.nikkei.com/columnviewpoint/column-special1/41781-2020-08-25-04-23-00.html" target="_blank">愛國，就不要吃過鹹食物</a>
+</dt>
+<dd>
+<p class="picture"><a href="http://zh.cn.nikkei.com/columnviewpoint/column-special1/41781-2020-08-25-04-23-00.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0819/0819-12-t.jpg" width="90" height="70" alt="愛國，就不要吃過鹹食物"/></a></p>
+<div class="content" style="margin-bottom:0px">村山宏：在韓國網民的言論中，經常説「日本料理又鹹又油膩，不喜歡」。雖然我能理解韓國人討厭日本料理，卻無法認可這個理由。日本每日鹽分攝取量為12.4g，中國為12.3g，令人意外的是韓國達到13.2g……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd></d1></div><div class="newsStyle01 mB10"><h2 class="style03"><p style="font-size: 18px;">政 策</p></h2><dl  class="newsContent01"><dt><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41772-2020-08-24-10-20-41.html" target="_blank">日本擬9月全面允許在留資格擁有者再入境</a>
+</dt>
+<dd>
+<p class="picture"><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41772-2020-08-24-10-20-41.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/07/0728/0728-02-1-T.jpg" width="90" height="70" alt="日本擬9月全面允許在留資格擁有者再入境"/></a></p>
+<div class="content" style="margin-bottom:0px">針對擁有在留資格的外國人，目前僅允許在列入拒絕對象國之前離開日本的人以及有參加親屬葬禮等「特殊情況」的人員再次入境。今後將與從海外回國的日本人一樣，以PCR檢測、觀察14天作為條件，放寬入境限制……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd></d1></div><div class="newsStyle01 mB10"><h2 class="style03"><p style="font-size: 18px;"><a href=http://zh.cn.nikkei.com/top/2020-02-03-06-03-30.html target="_blank">新冠病毒</a><a href=http://zh.cn.nikkei.com/top/2020-02-03-06-03-30.html target="_blank" class="more_white">更多</a></p></h2></p></h2><dl  class="newsContent01"><dt><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41762-2020-08-24-04-31-00.html" target="_blank">「免疫記憶」能防止新冠重症化？</a>
+</dt>
+<dd>
+<p class="picture"><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41762-2020-08-24-04-31-00.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/0821-08-2-T-REUTER.jpg" width="90" height="70" alt="「免疫記憶」能防止新冠重症化？"/></a></p>
+<div class="content" style="margin-bottom:0px">在沒有感染過新冠病毒的人體內，研究人員等接連發現了可對抗新冠病毒的免疫細胞。這可能是以前感染過冠狀病毒而産生的「免疫記憶」發揮作用的結果。利用這種作用的疫苗開發也已啟動……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/top/2020-02-03-06-03-30.html" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E">新冠病毒</span></a></span></div>
+</dd></d1></div><div class="newsStyle01 mB10"><h2 class="style03"><p style="font-size: 18px;">關 注</p></h2><dl  class="newsContent01"><dt><a href="http://zh.cn.nikkei.com/industry/propertiesconstruction/41775-2020-08-24-11-41-21.html" target="_blank">新冠疫情開始拉低日本地價</a>
+</dt>
+<dd>
+<p class="picture"><a href="http://zh.cn.nikkei.com/industry/propertiesconstruction/41775-2020-08-24-11-41-21.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0824/0824-09-2-T.jpg" width="90" height="70" alt="新冠疫情開始拉低日本地價"/></a></p>
+<div class="content" style="margin-bottom:0px">觀察日本國土交通省8月21日發佈的4月至7月日本主要城市100個地區的地價動向，下跌的地區數激增至上次調查（1～4月）的逾9倍。上漲的地區則從上次的73個銳減為1個……
+
+<span class="tagArea" style="margin-left:14px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:14px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd></d1></div>
+		<!-- ##### &#12501;&#12457;&#12540;&#12459;&#12473; End ##### -->
+		<!-- ##### 注目 Start ##### -->
+		<!--  -->
+		<!-- ##### 注目 End ##### -->
+		<!-- ##### 調查 Start ##### -->
+		<!--  -->
+		<!-- ##### 調查 End ##### -->
+		<!-- ##### 科學技術 Start ##### -->
+		<!--  -->
+		<!-- ##### 科學技術 End ##### -->
+		<!-- ##### 中日茶房 Start ##### -->
+		<div class="newsStyle01 mB10">
+<h2 class="style03"><p style="font-size: 18px;">
+<a href="http://zh.cn.nikkei.com/columnviewpoint/tearoom.html" target="_blank">中日茶坊</a>
+<a class="more" href="http://zh.cn.nikkei.com/columnviewpoint/tearoom.html" target="_blank">&#9654; 更多</a>
+</p></h2>
+<dl class="newsContent01">
+<dt><a href="http://zh.cn.nikkei.com/columnviewpoint/tearoom/41721-2020-08-25-05-00-00.html" target="_blank">日本各地的「小京都」</a>
+</dt>
+<dd>
+<div class="picture"><a href="http://zh.cn.nikkei.com/columnviewpoint/tearoom/41721-2020-08-25-05-00-00.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0825/Kakunodate_S.jpg" width="90" height="70" alt="日本各地的「小京都」" /></a></div>
+<div class="content">日經中文網特約撰稿人 中島惠：前幾天，我看到一個朋友在社交網站曬出了沒有寫地名的武士宅邸照片。我就直接問是在哪拍的，對方回復是「悄悄去了一趟陸奧小京都」。
+
+<span class="tagArea" style="margin-left:16px"><a href="http://zh.cn.nikkei.com/" target="_blank"><span class="kv01" style="font-size:16px;font-family:微軟雅黑;color:#BCA24E"></span></a></span></div>
+</dd><dt><a style="font-size: 14px;" href="http://zh.cn.nikkei.com/columnviewpoint/tearoom/41733-2020-08-24-05-00-00.html" target="_blank">疫情下，日本歌舞伎與相撲這樣求生存</a></dt>
+<dd>
+</dd><dt><a style="font-size: 14px;" href="http://zh.cn.nikkei.com/columnviewpoint/tearoom/41748-2020-08-21-10-00-00.html" target="_blank">年收6萬元在東京過日子的日本人</a></dt>
+<dd>
+</dd><dt><a style="font-size: 14px;" href="http://zh.cn.nikkei.com/columnviewpoint/tearoom/41643-2020-08-20-05-00-00.html" target="_blank">新生活要好好過</a></dt>
+<dd>
+</dd><dt><a style="font-size: 14px;" href="http://zh.cn.nikkei.com/columnviewpoint/tearoom/41710-2020-08-19-04-59-05.html" target="_blank">澀谷宮下公園的重生</a></dt>
+<dd>
+</dd></dl></div>
+<div class="newsStyle01 mB10 ">
+<h2 class="style03"><p style="font-size: 18px;">
+<a href="http://zh.cn.nikkei.com/component/tags/tag/2017-07-18-00-28-31.html" target="_blank">視  頻</a>
+<a class="more" href="http://zh.cn.nikkei.com/component/tags/tag/2017-07-18-00-28-31.html" target="_blank">&#9654; 更多</a>
+</p></h2>
+<dl class="newsContent01 index_special_column">
+<dt><a href="http://zh.cn.nikkei.com/industry/scienceatechnology/41521-2020-08-10-15-55-51.html" target="_blank">貼在皮膚上的「智慧手機」快來了？</a>
+</dt>
+<dd>
+<div class="picture"><a href="http://zh.cn.nikkei.com/industry/scienceatechnology/41521-2020-08-10-15-55-51.html" target="_blank"><img src="http://zh.cn.nikkei.com/images/2020/08/0803/0803-02-2-V.jpg" width="90" height="70" alt="貼在皮膚上的「智慧手機」快來了？" /></a></div>
+<div class="content">直接用你的手背進行視頻聊天的日子恐怕不再遙遠。日本團隊開發出一款超薄全彩顯示器，可輕鬆貼到皮膚上，顯示通過藍牙接收的圖像和視頻，今後還考慮支持遠程通信。這種技術還可以用於檢測心率等健康信息……
+
+<span class="tagArea" style="margin-left:16px"><a href="http://zh.cn.nikkei.com/component/tags/tag/2017-07-18-00-28-31.html" target="_blank"><span class="kv01" style="font-size:16px;font-family:微軟雅黑;color:#BCA24E">視頻</span></a></span></div>
+</dd><dt><a style="font-size: 14px;" href="http://zh.cn.nikkei.com/industry/tradingretail/41182-2020-07-09-05-00-06.html" target="_blank">疫情之下，直播帶貨從中國傳到日本</a></dt>
+<dd>
+</dd><dt><a style="font-size: 14px;" href="http://zh.cn.nikkei.com/industry/tradingretail/40894-2020-06-15-05-00-00.html" target="_blank">疫情下的婚禮：在月球乾杯在櫻花雨中擁吻</a></dt>
+<dd>
+</dd><dt><a style="font-size: 14px;" href="http://zh.cn.nikkei.com/industry/scienceatechnology/40834-2020-06-08-04-59-34.html" target="_blank">日本開發自動新冠檢測機器人</a></dt>
+<dd>
+</dd><dt><a style="font-size: 14px;" href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/40495-2020-05-18-05-00-00.html" target="_blank">吉尼斯紀錄保持者教你折飛得最久的紙飛機</a></dt>
+<dd>
+</dd></dl></div>
+
+		<!-- ##### 中日茶房 End ##### -->
+		<!-- ##### HotNews Start ##### -->
+		<div class="hotNews mB10">
+<h2 class="style04 mB10"><p>HotNews</p></h2>
+<div id="hotNewsTab" class="hotNewsTab">
+<ul class="fix">
+<li><a href="javascript:void(0)">最近</a></li>
+<li><a href="javascript:void(0)">1周</a></li>
+<li><a href="javascript:void(0)">1個月</a></li>
+</ul>
+<div id="hnbox" class="hnbox">
+<div class=""><ol>
+<li><a href="http://zh.cn.nikkei.com/industry/itelectric-appliance/41622-2020-08-24-04-30-00.html" target="_blank">心理戰：日本零部件廠商這樣看蘋果</a></li>
+<li><a href="http://zh.cn.nikkei.com/politicsaeconomy/commodity/41740-2020-08-24-04-20-00.html" target="_blank">日本進口澳洲牛肉降價，中國轉向巴西牛</a></li>
+<li><a href="http://zh.cn.nikkei.com/columnviewpoint/kelongcolumn/41759-2020-08-24-04-33-00.html" target="_blank">從過緊日子到節約糧食</a></li>
+<li><a href="http://zh.cn.nikkei.com/politicsaeconomy/investtrade/41769-2020-08-24-09-16-19.html" target="_blank">中國出發的航空貨物運費正在上漲</a></li>
+<li><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41772-2020-08-24-10-20-41.html" target="_blank">日本擬9月全面允許在留資格擁有者再入境</a></li>
+<li><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41773-2020-08-24-02-34-06.html" target="_blank">安倍刷新日本首相最長連任天數之後</a></li>
+<li><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41762-2020-08-24-04-31-00.html" target="_blank">「免疫記憶」能防止新冠重症化？</a></li>
+<li><a href="http://zh.cn.nikkei.com/columnviewpoint/tearoom/41733-2020-08-24-05-00-00.html" target="_blank">疫情下，日本歌舞伎與相撲這樣求生存</a></li>
+<li><a href="http://zh.cn.nikkei.com/industry/itelectric-appliance/41767-2020-08-24-09-22-53.html" target="_blank">中國地鐵開始配備LG顯示器的透明OLED屏</a></li>
+<li><a href="http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/41766-2020-08-24-09-02-14.html" target="_blank">臨時返日的日本人及家屬可重新申請赴華簽證</a></li>
+</ol></div>
+<div class=""><ol>
+<li><a href="http://zh.cn.nikkei.com/industry/itelectric-appliance/41642-2020-08-18-08-00-33.html" target="_blank">心理戰：日本零部件廠商這樣看華為</a></li>
+<li><a href="http://zh.cn.nikkei.com/industry/itelectric-appliance/41705-2020-08-19-05-00-00.html" target="_blank">「蘋果變心」給鴻海提出考驗</a></li>
+<li><a href="http://zh.cn.nikkei.com/china/ccompany/41690-2020-08-19-04-59-56.html" target="_blank">非洲對華為依存加強，與美國保持距離</a></li>
+<li><a href="http://zh.cn.nikkei.com/china/ccompany/41697-2020-08-18-01-20-21.html" target="_blank">美國加強對華為禁運</a></li>
+<li><a href="http://zh.cn.nikkei.com/politicsaeconomy/epolitics/41707-2020-08-20-04-59-22.html" target="_blank">全球主要國家GDP萎縮1成</a></li>
+<li><a href="http://zh.cn.nikkei.com/columnviewpoint/tearoom/41748-2020-08-21-10-00-00.html" target="_blank">年收6萬元在東京過日子的日本人</a></li>
+<li><a href="http://zh.cn.nikkei.com/columnviewpoint/column/41727-2020-08-21-04-59-12.html" target="_blank">新冠疫苗真的有效嗎？</a></li>
+<li><a href="http://zh.cn.nikkei.com/politicsaeconomy/commodity/41726-2020-08-21-04-59-11.html" target="_blank">澳大利亞將構建稀土的一條龍生産體制</a></li>
+<li><a href="http://zh.cn.nikkei.com/china/cfinancial/41730-2020-08-20-00-58-50.html" target="_blank">中國防範貴金屬和股市投資過熱</a></li>
+<li><a href="http://zh.cn.nikkei.com/politicsaeconomy/commodity/41714-2020-08-19-09-13-56.html" target="_blank">必和必拓對中國的依賴顯著</a></li>
+</ol></div>
+<div class=""><ol>
+<li><a href="http://zh.cn.nikkei.com/politicsaeconomy/epolitics/41497-2020-07-31-09-29-58.html" target="_blank">世界難實現V復甦，只有中國不一樣？</a></li>
+<li><a href="http://zh.cn.nikkei.com/columnviewpoint/column/41522-2020-08-05-04-41-00.html" target="_blank">日本半導體如何在中美之間選邊？</a></li>
+<li><a href="http://zh.cn.nikkei.com/columnviewpoint/column-special1/41589-2020-08-10-05-00-00.html" target="_blank">漢族歷史上為何數次被少數民族統治</a></li>
+<li><a href="http://zh.cn.nikkei.com/industry/itelectric-appliance/41642-2020-08-18-08-00-33.html" target="_blank">心理戰：日本零部件廠商這樣看華為</a></li>
+<li><a href="http://zh.cn.nikkei.com/trend/cool-japan/41591-2020-08-11-08-31-36.html" target="_blank">《鬼滅之刃》為什麼能爆紅？</a></li>
+<li><a href="http://zh.cn.nikkei.com/columnviewpoint/column/41451-2020-07-29-04-59-23.html" target="_blank">松下中國負責人與疫情奮戰的180天</a></li>
+<li><a href="http://zh.cn.nikkei.com/columnviewpoint/column/41629-2020-08-12-05-00-00.html" target="_blank">一盒馬鈴薯沙拉為何在日本引發熱議？</a></li>
+<li><a href="http://zh.cn.nikkei.com/politicsaeconomy/economic-policy/41469-2020-07-30-05-00-05.html" target="_blank">中國強化國際標準制定的存在感</a></li>
+<li><a href="http://zh.cn.nikkei.com/china/ccompany/41509-2020-08-06-04-31-00.html" target="_blank">中美5G摩擦，北歐系坐收漁利？</a></li>
+<li><a href="http://zh.cn.nikkei.com/columnviewpoint/column-special1/41380-2020-07-27-04-59-13.html" target="_blank">日本人還是一條蟲</a></li>
+</ol></div>
+</div>
+</div>
+</div>
+<script>tab();</script>
+		<!-- ##### HotNews End ##### -->
+		<!-- ##### 金融市場 Start ##### -->
+		
+		<!-- ##### 金融市場 End ##### -->
+		<!-- ##### &#24195;告（右）２ Start ##### -->
+		
+		<!-- ##### &#24195;告（右）２ End ##### -->
+		<!-- ##### 日&#32076;BP Start ##### -->
+		<div class="financialMarket mB10 fix">
+<h2 class="style03"><p style="font-size: 18px;">金融市場</p></h2>
+<table class="financialTable" >
+<tbody>
+<tr class="odd"><td id="ROW1_NAME" class="contentsName">日經225指數</td><td id="ROW1_CUR" align="right">22985.51</td><td id="ROW1_DIFF" align="right" class="jblue" style="color:#FF0000;">65.21</td><td id="ROW1_MMDD" align="right" class="fdate">08/24</td><td id="ROW1_TIME_E" align="right">close</td></tr><tr class="even"><td id="ROW2_NAME" class="contentsName">日經亞洲300</td><td id="ROW2_CUR" align="right">1416.41</td><td id="ROW2_DIFF" align="right" class="jblue" style="color:#FF0000;">20.76</td><td id="ROW2_MMDD" align="right" class="fdate">08/24</td><td id="ROW2_TIME_E" align="right">close</td></tr><tr class="odd"><td id="ROW3_NAME" class="contentsName">美元／日元</td><td id="ROW3_CUR" align="right">105.95</td><td id="ROW3_DIFF" align="right" class="jblue" style="color:#FF0000;">0.10</td><td id="ROW3_MMDD" align="right" class="fdate">08/25</td><td id="ROW3_TIME_E" align="right">07:50</td></tr><tr class="even"><td id="ROW4_NAME" class="contentsName">美元／人民元</td><td id="ROW4_CUR" align="right">6.9189</td><td id="ROW4_DIFF" align="right" class="jblue" style="color:#0000FF;">-0.0004</td><td id="ROW4_MMDD" align="right" class="fdate">08/24</td><td id="ROW4_TIME_E" align="right">23:15</td></tr><tr class="odd"><td id="ROW5_NAME" class="contentsName">道瓊斯指數</td><td id="ROW5_CUR" align="right">28308.46</td><td id="ROW5_DIFF" align="right" class="jblue" style="color:#FF0000;">378.13</td><td id="ROW5_MMDD" align="right" class="fdate">08/24</td><td id="ROW5_TIME_E" align="right">close</td></tr><tr class="even"><td id="ROW6_NAME" class="contentsName">富時100</td><td id="ROW6_CUR" align="right">6104.730</td><td id="ROW6_DIFF" align="right" class="jblue" style="color:#FF0000;">102.840</td><td id="ROW6_MMDD" align="right" class="fdate">08/24</td><td id="ROW6_TIME_E" align="right">close</td></tr><tr class="odd"><td id="ROW7_NAME" class="contentsName">上海綜合</td><td id="ROW7_CUR" align="right">3385.6383</td><td id="ROW7_DIFF" align="right" class="jblue" style="color:#FF0000;">4.9558</td><td id="ROW7_MMDD" align="right" class="fdate">08/24</td><td id="ROW7_TIME_E" align="right">close</td></tr><tr class="even"><td id="ROW8_NAME" class="contentsName">恒生指數</td><td id="ROW8_CUR" align="right">25551.58</td><td id="ROW8_DIFF" align="right" class="jblue" style="color:#FF0000;">437.74</td><td id="ROW8_MMDD" align="right" class="fdate">08/24</td><td id="ROW8_TIME_E" align="right">close</td></tr><tr class="odd"><td id="ROW9_NAME" class="contentsName">紐約黃金</td><td id="ROW9_CUR" align="right">1927.7</td><td id="ROW9_DIFF" align="right" class="jblue" style="color:#0000FF;">-6.9</td><td id="ROW9_MMDD" align="right" class="fdate">08/24</td><td id="ROW9_TIME_E" align="right">close</td></tr></tr></tbody>
+</table>
+<p class="aboutData"><a href="http://indexes.nikkei.co.jp/cz/nkave/index/profile?idx=nk225" target="_blank">關於日經指數　</a></p>
+</div>
+
+		<!-- ##### 日&#32076;BP End ##### -->
+		<!-- ##### 特集&#12524;&#12499;&#12517;&#12540; Start ##### -->
+		
+<div class="twoCode mB10">
+<div class="codeContent">
+<p class="frt"><a href="http://zh.cn.nikkei.com/weixin.html" target="_blank" rel="noopener noreferrer"><img width="130" height="130" style="margin: 6px 7px;" alt="二維碼" src="http://zh.cn.nikkei.com/templates/nikkei_new/common/images/sns/sns_code.jpg" /> </a></p>
+<div>
+<dl>
+<dt>日經中文網<br /> 公眾平臺上線！</dt>
+<dd><span>請掃描二維碼，馬上關注！</span>
+<ul class="fix">
+<li><fjtignoreurl><a href="http://weibo.com/u/2478163131" target="_blank" rel="noopener noreferrer"><img width="34" height="34" alt="&#26032;&#28010;&#24494;&#21338;" src="http://cn.nikkei.com/templates/nikkei_new/common/images/sns/sns_sina.jpg" /> </a></fjtignoreurl></li>
+<li><fjtignoreurl><a href="http://t.qq.com/rijingzhongwen" target="_blank" rel="noopener noreferrer"><img width="34" height="34" alt="&#33150;&#35759;&#24494;&#21338;" src="http://cn.nikkei.com/templates/nikkei_new/common/images/sns/sns_qq.jpg" /> </a></fjtignoreurl></li>
+<li><a href="https://cn.nikkei.com/user/register.html" target="_blank" rel="noopener noreferrer"><img width="34" height="34" alt="會員登錄" src="http://zh.cn.nikkei.com/templates/nikkei_new/common/images/sns/sns_login.jpg" /> </a></li>
+</ul>
+</dd>
+</dl>
+</div>
+</div>
+</div>
+		<!-- ##### 特集&#12524;&#12499;&#12517;&#12540; End ##### -->
+		<!-- ##### 日本新品 Start ##### -->
+		
+		<!-- ##### 日本新品 End ##### -->
+		<!-- ##### &#24195;告（右）４ Start ##### -->
+		
+		<!-- ##### &#24195;告（右）４ End ##### -->
+		<!-- ##### &#24195;告（右）５ Start ##### -->
+		
+<p>
+<script type="text/javascript">// <![CDATA[
+if ((document.domain == 'zh.cn.nikkei.com') || (location.port == '8080')){
+document.open();
+document.write("<div id='div-gpt-ad-1405573613359-0' style='text-align:center;'>");
+document.close();
+googletag.display('div-gpt-ad-1405573613359-0');
+document.open();
+document.write("</div>");
+document.close();
+}else{
+document.open();
+document.write("<div id='div-gpt-ad-1405573613359-0' style='text-align:center;'>");
+document.close();
+googletag.display('div-gpt-ad-1405573613359-0');
+document.open();
+document.write("</div>");
+document.close();
+}
+// ]]></script>
+</p>
+		<!-- ##### &#24195;告（右）５ End ##### -->
+		<!-- ##### &#24195;告（右）６ Start ##### -->
+		
+		<!-- ##### &#24195;告（右）６ End ##### -->
+		<!-- ##### &#24195;告（右）7 Start ##### -->
+		
+		<!-- ##### &#24195;告（右）7 End ##### -->
+		<!-- add iv 20170630 stat -->
+		<!-- ##### &#24195;告（右）8 Start ##### -->
+		
+<div id="div-gpt-ad-1499218881668-0" style="text-align: center; margin-top: 4px; margin-bottom: 4px; height: 125px;">
+<script type="text/javascript">// <![CDATA[
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1499218881668-0'); });
+// ]]></script>
+</div>
+		<!-- ##### &#24195;告（右）8 End ##### -->
+		<!-- ##### &#24195;告（右）9 Start ##### -->
+		
+<p></p>
+<!-- Nikkeichina_300*125_3 -->
+<div id="div-gpt-ad-1320902128961-14" style="text-align: center; margin-bottom: 4px; height: 125px;">
+<script type="text/javascript">// <![CDATA[
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1320902128961-14'); });
+// ]]></script>
+</div>
+		<!-- ##### &#24195;告（右）9 End ##### -->
+		<!-- add iv 20170630 end -->
+	</div>
+
+				<!-- ##### Right Contents End ##### -->
+			</div>
+		</div>
+		<!-- ##### Content End ##### -->
+		
+		<!-- ###### footer START ###### -->
+		<!-- mod by cube 20180326 start -->
+		<div class="footer" style="padding-bottom:40px;margin-top:0px;";>
+		<!-- mod by cube 20180326 end -->
+						<ul class="fix"><li><a href="http://zh.cn.nikkei.com/footer/gga.html" target="_blank">關於我們</a></li><li><a href="http://zh.cn.nikkei.com/footer/ggb.html" target="_blank">ID使用協議</a></li><li><a href="http://zh.cn.nikkei.com/footer/ggd.html" target="_blank">隱私方針</a></li><li><a style="padding-right:12px;" href="http://zh.cn.nikkei.com/footer/ggm.html" target="_blank">知識産權</a></li><li><a href="https://zh.cn.nikkei.com/footer/ggc.html" target="_blank">問題回饋</a></li><li><a href="http://zh.cn.nikkei.com/footer/ggg.html" target="_blank">廣告業務</a></li><li><a href="http://zh.cn.nikkei.com/footer/ggk.html" target="_blank">HELP</a></li><li><a href="http://zh.cn.nikkei.com/footer/ggi.html" target="_blank">當地法人介紹</a></li><li><a href="http://zh.cn.nikkei.com/footer/ggh.html" target="_blank">網站地圖</a></li></ul>
+						
+<p>&#169;
+<script>// <![CDATA[
+var myDate = new Date();
+document.write (myDate.getFullYear());
+// ]]></script>
+&#160;Nikkei Inc. All rights reserved./ 日本經濟新聞社知識産權所有 未經許可不得轉載</p>
+			
+<p></p>
+<!-- MOAT --><noscript class="MOAT-nikkeichinadfp303635520192?moatClientLevel1=%eadv!&amp;moatClientLevel2=%ebuy!&amp;moatClientLevel3=%eaid!&amp;moatClientLevel4=%ecid!&amp;moatClientSlicer1=%esid!&amp;moatClientSlicer2=%epid!"></noscript>
+<script src="https://z.moatads.com/nikkeichinadfp303635520192/moatad.js#moatClientLevel1=-ifbase4-base200-JWVhZHYhJmFtcDttb2F0Q2xpZW50TGV2ZWwyPSVlYnV5ISZhbXA7bW9hdENsaWVudExldmVsMz0lZWFpZCEmYW1wO21vYXRDbGllbnRMZXZlbDQ9JWVjaWQhJmFtcDttb2F0Q2xpZW50U2xpY2VyMT0lZXNpZCEmYW1wO21vYXRDbGllbnRTbGljZXIyPSVlcGlkIQ~~" type="text/javascript"></script>
+<!-- SiteCatalyst code version: H.9.Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com -->
+<script type="text/javascript" src="http://zh.cn.nikkei.com/templates/nikkei/common/scripts/Tag_CN.js"></script>
+<script type="text/javascript" src="http://zh.cn.nikkei.com/templates/nikkei/common/scripts/s_codeCN.js"></script>
+<script type="text/javascript" src="http://zh.cn.nikkei.com/templates/nikkei/common/scripts/s_cDS_CN.js"></script>
+<script type="text/javascript" src="http://zh.cn.nikkei.com/templates/nikkei/common/scripts/atj.min.js"></script>
+<script type="text/javascript" src="http://zh.cn.nikkei.com/templates/nikkei/common/scripts/c2p.js"></script>
+<script type="text/javascript">// <![CDATA[
+if(navigator.appVersion.indexOf('MSIE')>=0)
+  document.write(unescape('%3C')+'\!-'+'-')
+// ]]></script>
+<noscript>
+ <fjtignoreurl><a href="http://www.omniture.com" title="Web Analytics">
+  <img src="http://nikkei.112.2o7.net/b/ss/nikkeicojpcnprod/1/H.9--NS/0" height="1" width="1" border="0" alt="" />
+ </a></fjtignoreurl>
+</noscript><!--/DO NOT REMOVE/--><!-- End SiteCatalyst code version: H.9. --><!--/SiteCatalyst code-->
+<p><fjtignoreurl>
+<script>// <![CDATA[
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-75972352-1', 'auto');
+  ga('send', 'pageview');
+// ]]></script>
+</fjtignoreurl></p>
+		</div>
+		<!-- ###### footer END ###### -->
+	</div>
+</body>
+<!-- delete cube 20161103
+	<script type="text/javascript" src="/templates/nikkeisite/common/scripts/index.js"></script>-->
+</html>
